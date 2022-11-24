@@ -1,0 +1,1453 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Munhoz - Law Firm & Attorneys Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.4",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bankruptcy Lawyer",
+            "screenshot": "screenshots\/bankruptcy-lawyer.jpg",
+            "source": "templates\/bankruptcy-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/bankruptcy-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Personal Injury Lawyer",
+            "screenshot": "screenshots\/personal-injury-lawyer.jpg",
+            "source": "templates\/personal-injury-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/personal-injury-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plans",
+            "screenshot": "screenshots\/pricing-plans.jpg",
+            "source": "templates\/pricing-plans.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/pricing-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Immigration Lawyer",
+            "screenshot": "screenshots\/immigration-lawyer.jpg",
+            "source": "templates\/immigration-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/immigration-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Criminal Lawyer",
+            "screenshot": "screenshots\/criminal-lawyer.jpg",
+            "source": "templates\/criminal-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/criminal-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medical Malpractice Lawyer",
+            "screenshot": "screenshots\/medical-malpractice-lawyer.jpg",
+            "source": "templates\/medical-malpractice-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/medical-malpractice-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tax Lawyer",
+            "screenshot": "screenshots\/tax-lawyer.jpg",
+            "source": "templates\/tax-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/tax-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Family Lawyer",
+            "screenshot": "screenshots\/family-lawyer.jpg",
+            "source": "templates\/family-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/family-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Corporate Lawyer",
+            "screenshot": "screenshots\/corporate-lawyer.jpg",
+            "source": "templates\/corporate-lawyer.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/template-kit\/corporate-lawyer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/munhoz\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-section-15-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-15-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                },
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 261243,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lawyers-during-company-meeting-P24TKXP"
+        },
+        {
+            "filename": "image-section-59-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-59-min.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 1712,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-45-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-45-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 22603,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-43-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-43-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 23855,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-42-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-42-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 17428,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-46-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-46-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 22978,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-47-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-47-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 22256,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-60-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-60-min.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 1904,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-85-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-85-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 483029,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/blurred-employees-in-company-P4TBJ9J"
+        },
+        {
+            "filename": "image-section-66-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-66-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1958,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "image-section-67-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-67-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1451,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "image-section-65-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-65-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1824,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "image-section-68-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-68-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3887,
+            "dimensions": [
+                232,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-63-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-63-min.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 3131,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-87-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-87-min-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 103009,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wooden-judge-gavel-isolated-U27XWZD"
+        },
+        {
+            "filename": "image-section-53-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-53-min-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5950,
+            "dimensions": [
+                1920,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-88-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-88-min-800x1067.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 287208,
+            "dimensions": [
+                900,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-mature-businessman-in-suit-with-arms-cros-45X89E5"
+        },
+        {
+            "filename": "image-section-31-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-31-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 105130,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/metaball-abstract-background-XZMESWE"
+        },
+        {
+            "filename": "image-section-56-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-56-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                }
+            ],
+            "filesize": 2441,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-17-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-17-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 238722,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/partial-view-of-lawyers-shaking-hands-on-meeting-i-ZL4PFYU"
+        },
+        {
+            "filename": "image-section-18-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-18-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 190368,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-lawyer-with-papers-at-workplace-BHJ5JGZ"
+        },
+        {
+            "filename": "image-section-08-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-08-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 159797,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-of-lawyer-MXFYLQE"
+        },
+        {
+            "filename": "image-section-44-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-44-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 32497,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "image-section-16-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-16-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 201192,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lawyer-workplace-with-themis-sculpture-in-modern-o-8KQWZCN"
+        },
+        {
+            "filename": "image-section-13-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-13-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 193916,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/consultation-and-conference-of-professional-busine-4WFWFWL"
+        },
+        {
+            "filename": "image-section-14-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-14-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                }
+            ],
+            "filesize": 320020,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-lawyers-in-suits-discussing-contract-toge-76DHGLF"
+        },
+        {
+            "filename": "image-section-19-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-19-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bankruptcy-lawyer.json",
+                    "name": "Bankruptcy Lawyer"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 355253,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-lawyer-giving-clipboard-and-pen-to-young-w-E7PWLYX"
+        },
+        {
+            "filename": "image-section-79-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-79-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                },
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 206351,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-concentrated-lawyer-working-on-laptop--6QZ3MEB"
+        },
+        {
+            "filename": "image-section-69-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-69-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 452006,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/overhead-view-of-man-signing-contract-at-table-dur-9BEQCRM"
+        },
+        {
+            "filename": "image-section-84-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-84-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                }
+            ],
+            "filesize": 201529,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-female-lawyer-in-suit-working-o-9ZXYLD6"
+        },
+        {
+            "filename": "image-section-89-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-89-min-800x375.png",
+            "templates": [
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                }
+            ],
+            "filesize": 5600,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-82-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-82-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/personal-injury-lawyer.json",
+                    "name": "Personal Injury Lawyer"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                }
+            ],
+            "filesize": 286418,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lawyers-in-suits-working-together-on-project-at-wo-72B2JY8"
+        },
+        {
+            "filename": "image-section-75-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-75-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                }
+            ],
+            "filesize": 291027,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-male-lawyer-holding-contract-and-looking-a-TJVC7HY"
+        },
+        {
+            "filename": "image-section-76-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-76-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                },
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 286114,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-insurance-agent-giving-pen-to-female-clien-RU7YX3S"
+        },
+        {
+            "filename": "image-section-86-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-86-min-800x650.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 273199,
+            "dimensions": [
+                1000,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/statue-of-justice-holding-aloft-scales-EKCL9VR"
+        },
+        {
+            "filename": "image-section-77-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-77-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 263092,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-professional-in-the-workplace-4YJQ35U"
+        },
+        {
+            "filename": "image-section-58-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-58-min.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 2127,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-72-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-72-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 251229,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-man-signing-contract-at-table-i-T3ND9AZ"
+        },
+        {
+            "filename": "image-section-62-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-62-min.png",
+            "templates": [
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                }
+            ],
+            "filesize": 2459,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-57-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-57-min.png",
+            "templates": [
+                {
+                    "source": "templates\/immigration-lawyer.json",
+                    "name": "Immigration Lawyer"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 746,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-81-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-81-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/criminal-lawyer.json",
+                    "name": "Criminal Lawyer"
+                }
+            ],
+            "filesize": 329294,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-male-lawyer-in-eyeglasses-working-with-con-Z2AY242"
+        },
+        {
+            "filename": "image-section-61-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-61-min.png",
+            "templates": [
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                }
+            ],
+            "filesize": 911,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/firm-icons-line-and-solid-W2D3VBR"
+        },
+        {
+            "filename": "image-section-70-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-70-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/medical-malpractice-lawyer.json",
+                    "name": "Medical Malpractice Lawyer"
+                },
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 480944,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/overhead-view-of-man-signing-contract-at-table-dur-7632XLV"
+        },
+        {
+            "filename": "image-section-74-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-74-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tax-lawyer.json",
+                    "name": "Tax Lawyer"
+                },
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 261635,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-mature-lawyers-with-paperwork-in-modern-of-YURQU9C"
+        },
+        {
+            "filename": "image-section-73-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-73-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 303659,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-smiling-couple-reading-contract-23YPSYB"
+        },
+        {
+            "filename": "image-section-71-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-71-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/family-lawyer.json",
+                    "name": "Family Lawyer"
+                }
+            ],
+            "filesize": 311138,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-couple-having-meeting-with-lawy-37Q9VTP"
+        },
+        {
+            "filename": "image-section-78-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2021\/05\/image-section-78-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/corporate-lawyer.json",
+                    "name": "Corporate Lawyer"
+                }
+            ],
+            "filesize": 353894,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mid-section-of-lawyer-holding-lady-justice-statue--NZR4SFP"
+        },
+        {
+            "filename": "image-section-22-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/munhoz\/wp-content\/uploads\/sites\/18\/2020\/12\/image-section-22-min.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3769,
+            "dimensions": [
+                232,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

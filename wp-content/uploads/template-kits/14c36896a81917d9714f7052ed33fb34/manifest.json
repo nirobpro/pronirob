@@ -1,0 +1,2039 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Enigma - Personal Portfolio UI UX design",
+    "page_builder": "elementor",
+    "kit_version": "2.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/error-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact Info",
+            "screenshot": "screenshots\/metform-contact-info.jpg",
+            "source": "templates\/metform-contact-info.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/contact-info\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/enigma.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "5.0.7",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "border01.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/border01-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 65842,
+            "dimensions": [
+                1960,
+                1225
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homeenigma014.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2022\/02\/homeenigma014-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 347523,
+            "dimensions": [
+                1800,
+                2700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-and-serious-guy-with-beard-in-dark-backg-89XSGA7"
+        },
+        {
+            "filename": "homeenigma018.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2022\/02\/homeenigma018.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 384838,
+            "dimensions": [
+                762,
+                1143
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homeenigma016.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2022\/02\/homeenigma016.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 281062,
+            "dimensions": [
+                764,
+                1145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite01.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 37155,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-17.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-17.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 36268,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite03.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 17098,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-10.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 16658,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite02.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 18063,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-9.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 23119,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite04.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19485,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-27.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-27.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19364,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite05.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 24532,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-2.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 24591,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icoblackwhite07.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 19734,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-5.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 19926,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brandlog02.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24804,
+            "dimensions": [
+                509,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog01.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19502,
+            "dimensions": [
+                508,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog05.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17586,
+            "dimensions": [
+                508,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog03.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17196,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog06.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 21637,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog07.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 21760,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "brandlog08.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/brandlog08.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16394,
+            "dimensions": [
+                509,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/250-minimal-logos-template-7NUHLG"
+        },
+        {
+            "filename": "border02.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/border02-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 65887,
+            "dimensions": [
+                1960,
+                1225
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homeenigma022.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2022\/02\/homeenigma022.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 310967,
+            "dimensions": [
+                757,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/strong-and-bearded-guy-in-sweater-posing-in-dark-b-KMQDK7M"
+        },
+        {
+            "filename": "homeenigma019.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2022\/02\/homeenigma019.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 300761,
+            "dimensions": [
+                762,
+                762
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "gallery-2.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-2-800x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 58228,
+            "dimensions": [
+                1474,
+                1197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composition-with-business-accessories-on-blue-back-66JXBJA"
+        },
+        {
+            "filename": "gallery-6.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-6-800x652.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 112571,
+            "dimensions": [
+                1842,
+                1501
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/composition-with-business-accessories-on-blue-back-66JXBJA"
+        },
+        {
+            "filename": "gallery-7.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-7-800x652.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 80200,
+            "dimensions": [
+                1842,
+                1501
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/computer-mouse-and-keyboard-close-up-creative-phot-NG6RGU7"
+        },
+        {
+            "filename": "Blog-2.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Blog-2-800x612.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 73566,
+            "dimensions": [
+                1700,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composition-with-business-accessories-on-blue-back-66JXBJA"
+        },
+        {
+            "filename": "Blog-5.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Blog-5-800x612.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 174825,
+            "dimensions": [
+                1700,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composition-with-business-accessories-on-blue-back-66JXBJA"
+        },
+        {
+            "filename": "Blog-4.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Blog-4-800x612.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 176701,
+            "dimensions": [
+                1700,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composition-with-business-accessories-on-blue-back-66JXBJA"
+        },
+        {
+            "filename": "Mask-Group-14.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Mask-Group-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 45420,
+            "dimensions": [
+                333,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-8.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Mask-Group-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 53060,
+            "dimensions": [
+                334,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-10.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Mask-Group-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 42840,
+            "dimensions": [
+                334,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-4.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/Mask-Group-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 33816,
+            "dimensions": [
+                335,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "homeenigma02.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 157008,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dark-studio-portrait-of-a-middle-aged-man-with-bea-EJVMULM"
+        },
+        {
+            "filename": "border03.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/border03-800x510.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 53489,
+            "dimensions": [
+                1920,
+                1225
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homeenigma05.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 317010,
+            "dimensions": [
+                700,
+                820
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/designers-team-working-meeting-in-a-modern-office-M32WDMJ"
+        },
+        {
+            "filename": "homeenigma03.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 251766,
+            "dimensions": [
+                700,
+                820
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-creative-workplace-with-professional-compute-EWXBFP8"
+        },
+        {
+            "filename": "gallery-5.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-5-800x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 87523,
+            "dimensions": [
+                1474,
+                1197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-flat-lay-photo-of-workspace-desk-top-view-CSQ8ARN"
+        },
+        {
+            "filename": "gallery-4.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-4-800x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 183140,
+            "dimensions": [
+                1474,
+                1197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/overhead-shot-of-office-desk-with-digital-tablet-c-ESS4ZGS"
+        },
+        {
+            "filename": "gallery-3.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-3-800x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 55485,
+            "dimensions": [
+                1474,
+                1197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/home-office-workspace-PBYPMPW"
+        },
+        {
+            "filename": "gallery-1.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/gallery-1-800x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 95089,
+            "dimensions": [
+                1474,
+                1197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/computer-keyboard-and-mouse-on-color-block-backgro-K8Y3DN5"
+        },
+        {
+            "filename": "homeenigma09.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/homeenigma09-800x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 49536,
+            "dimensions": [
+                1920,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-casual-business-man-looking-at-a-marketing-plan-QJN76LR"
+        },
+        {
+            "filename": "homeenigma010.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/homeenigma010-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 89651,
+            "dimensions": [
+                951,
+                951
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto01.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/porto01-800x453.png",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 272030,
+            "dimensions": [
+                1500,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/laptop-mockups-DZ8VJA4"
+        },
+        {
+            "filename": "homeenigma012.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/homeenigma012-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 64431,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/blue-workplace-with-computer-smartphone-and-suppli-UMC7ZA4"
+        },
+        {
+            "filename": "homeenigma011.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/homeenigma011-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 102945,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/top-view-of-workspace-with-some-office-supplies-MBQS3XV"
+        },
+        {
+            "filename": "icoblackwhite09.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/icoblackwhite09.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24182,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbrand01-3.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/iconbrand01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 34866,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homeenigma06.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma06-800x771.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 170240,
+            "dimensions": [
+                1920,
+                1850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dark-studio-portrait-of-a-middle-aged-man-with-bea-CS663G5"
+        },
+        {
+            "filename": "ico01-3.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/ico01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 3643,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-outline-icon-V3EXPJ4"
+        },
+        {
+            "filename": "ico01-1.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/ico01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 3089,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-outline-icon-V3EXPJ4"
+        },
+        {
+            "filename": "ico01-5.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/ico01-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 3534,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-outline-icon-V3EXPJ4"
+        },
+        {
+            "filename": "ico01-2.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/ico01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 3580,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-outline-icon-V3EXPJ4"
+        },
+        {
+            "filename": "homeenigma07.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma07-800x736.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92615,
+            "dimensions": [
+                1700,
+                1563
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-view-of-ux-designer-using-layouts-while-cr-Z9NATWN"
+        },
+        {
+            "filename": "homeenigma08.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/homeenigma08-800x790.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 139528,
+            "dimensions": [
+                1700,
+                1679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ui-designer-against-planning-board-EKXJFUP"
+        },
+        {
+            "filename": "homeenigma013.jpg",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/homeenigma013-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 264880,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/home-office-workspace-mockup-in-woman-hands-with-l-E8YQCVX"
+        },
+        {
+            "filename": "ico01-11.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/ico01-11.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 34804,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico01-10.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/ico01-10.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 36911,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico01-9.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/ico01-9.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 45393,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico01-8.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/10\/ico01-8.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 26109,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/enigma.1onestrong.com\/wp-content\/uploads\/sites\/11\/2021\/09\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 29069,
+            "dimensions": [
+                784,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

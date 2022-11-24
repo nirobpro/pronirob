@@ -1,0 +1,1765 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Fit Factory - Gym Fitness Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/a.catand.us",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form - Contact Form",
+            "screenshot": "screenshots\/form-contact-form.jpg",
+            "source": "templates\/form-contact-form.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/form-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form - Subscribe Form",
+            "screenshot": "screenshots\/form-subscribe-form.jpg",
+            "source": "templates\/form-subscribe-form.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/form-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Home",
+            "screenshot": "screenshots\/page-home.jpg",
+            "source": "templates\/page-home.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - About",
+            "screenshot": "screenshots\/page-about.jpg",
+            "source": "templates\/page-about.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Classes",
+            "screenshot": "screenshots\/page-classes.jpg",
+            "source": "templates\/page-classes.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-classes\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Trainers",
+            "screenshot": "screenshots\/page-trainers.jpg",
+            "source": "templates\/page-trainers.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-trainers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Review",
+            "screenshot": "screenshots\/page-review.jpg",
+            "source": "templates\/page-review.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-review\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Pricing",
+            "screenshot": "screenshots\/page-pricing.jpg",
+            "source": "templates\/page-pricing.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Blog",
+            "screenshot": "screenshots\/page-blog.jpg",
+            "source": "templates\/page-blog.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Contact",
+            "screenshot": "screenshots\/page-contact.jpg",
+            "source": "templates\/page-contact.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Class Details",
+            "screenshot": "screenshots\/page-class-details.jpg",
+            "source": "templates\/page-class-details.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-class-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Single Post",
+            "screenshot": "screenshots\/page-single-post.jpg",
+            "source": "templates\/page-single-post.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - FAQ",
+            "screenshot": "screenshots\/page-faq.jpg",
+            "source": "templates\/page-faq.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - 404 Page",
+            "screenshot": "screenshots\/page-404-page.jpg",
+            "source": "templates\/page-404-page.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Coming Soon",
+            "screenshot": "screenshots\/page-coming-soon.jpg",
+            "source": "templates\/page-coming-soon.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/page-coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "landing-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Features I",
+            "screenshot": "screenshots\/block-features-i.jpg",
+            "source": "templates\/block-features-i.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-features-i\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Features II",
+            "screenshot": "screenshots\/block-features-ii.jpg",
+            "source": "templates\/block-features-ii.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-features-ii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Classes I",
+            "screenshot": "screenshots\/block-classes-i.jpg",
+            "source": "templates\/block-classes-i.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-classes-i\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Classes II",
+            "screenshot": "screenshots\/block-classes-ii.jpg",
+            "source": "templates\/block-classes-ii.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-classes-ii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonials",
+            "screenshot": "screenshots\/block-testimonials.jpg",
+            "source": "templates\/block-testimonials.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Pricing",
+            "screenshot": "screenshots\/block-pricing.jpg",
+            "source": "templates\/block-pricing.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Logos",
+            "screenshot": "screenshots\/block-logos.jpg",
+            "source": "templates\/block-logos.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-logos\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Numbers",
+            "screenshot": "screenshots\/block-numbers.jpg",
+            "source": "templates\/block-numbers.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-numbers\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Schedule",
+            "screenshot": "screenshots\/block-schedule.jpg",
+            "source": "templates\/block-schedule.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-schedule\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - FAQ",
+            "screenshot": "screenshots\/block-faq.jpg",
+            "source": "templates\/block-faq.json",
+            "preview_url": "https:\/\/a.catand.us\/fitfactory\/template-kit\/block-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.6",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.3.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.0.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.7.7",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "fitfactory_logo.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fitfactory_logo-800x119.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                },
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                },
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page - Coming Soon"
+                }
+            ],
+            "filesize": 20294,
+            "dimensions": [
+                810,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "weight-plates-in-a-gym-powerlifting-equipment-CEXNKKL.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/weight-plates-in-a-gym-powerlifting-equipment-CEXNKKL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 648443,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CEXNKKL"
+        },
+        {
+            "filename": "shot-of-crossfit-in-motion-5NQ3VRT.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/shot-of-crossfit-in-motion-5NQ3VRT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 168179,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5NQ3VRT"
+        },
+        {
+            "filename": "woman-in-gym-3L9WV7T.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/woman-in-gym-3L9WV7T-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 165072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3L9WV7T"
+        },
+        {
+            "filename": "personal-trainer-with-woman-in-fitness-center-X7F6YJR.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/personal-trainer-with-woman-in-fitness-center-X7F6YJR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 174076,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X7F6YJR"
+        },
+        {
+            "filename": "total-body-fitness-XJVXB7E.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/total-body-fitness-XJVXB7E-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 155752,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XJVXB7E"
+        },
+        {
+            "filename": "personal-trainer-with-woman-in-fitness-center-K59HT5N.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/personal-trainer-with-woman-in-fitness-center-K59HT5N-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 180632,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K59HT5N"
+        },
+        {
+            "filename": "smoke-overlays-1-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/smoke-overlays-1-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page - Contact"
+                },
+                {
+                    "source": "templates\/page-faq.json",
+                    "name": "Page - FAQ"
+                },
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page - Coming Soon"
+                }
+            ],
+            "filesize": 123382,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "bearded-bodybuilder-dressed-in-a-tank-top-GLJJB9S.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/bearded-bodybuilder-dressed-in-a-tank-top-GLJJB9S-800x1226.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                }
+            ],
+            "filesize": 912882,
+            "dimensions": [
+                1253,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "fit-couple-lifting-barbells-in-the-gym-ZACL9S6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fit-couple-lifting-barbells-in-the-gym-ZACL9S6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                }
+            ],
+            "filesize": 182818,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZACL9S6"
+        },
+        {
+            "filename": "smoke-overlays-21-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/smoke-overlays-21-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 134878,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "young-woman-posing-and-showing-muscles-in-gym-PLJMEGF.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/young-woman-posing-and-showing-muscles-in-gym-PLJMEGF-800x1608.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page - Single Post"
+                }
+            ],
+            "filesize": 682127,
+            "dimensions": [
+                955,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLJMEGF"
+        },
+        {
+            "filename": "young-woman-on-rowing-machine-PH7GYVJ.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/young-woman-on-rowing-machine-PH7GYVJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-classes-i.json",
+                    "name": "Block - Classes I"
+                }
+            ],
+            "filesize": 65578,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PH7GYVJ"
+        },
+        {
+            "filename": "man-at-the-gym-WG98GXE.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/man-at-the-gym-WG98GXE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-classes-i.json",
+                    "name": "Block - Classes I"
+                }
+            ],
+            "filesize": 55169,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WG98GXE"
+        },
+        {
+            "filename": "women-practising-yoga-at-gym-B49YFLN.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/women-practising-yoga-at-gym-B49YFLN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-classes-i.json",
+                    "name": "Block - Classes I"
+                }
+            ],
+            "filesize": 62564,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B49YFLN"
+        },
+        {
+            "filename": "close-up-of-new-dumbbells-on-a-rack-in-a-gym-T2TRKFG.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/close-up-of-new-dumbbells-on-a-rack-in-a-gym-T2TRKFG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page - Pricing"
+                },
+                {
+                    "source": "templates\/block-numbers.json",
+                    "name": "Block - Numbers"
+                }
+            ],
+            "filesize": 173484,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-T2TRKFG"
+        },
+        {
+            "filename": "instructors-standing-in-gym-FRCG2GH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/instructors-standing-in-gym-FRCG2GH-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 87317,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FRCG2GH"
+        },
+        {
+            "filename": "personal-trainer-at-the-gym-3XPGKW3.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/personal-trainer-at-the-gym-3XPGKW3-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 89754,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3XPGKW3"
+        },
+        {
+            "filename": "personal-trainer-and-student-in-gym-DBYX9AK.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/personal-trainer-and-student-in-gym-DBYX9AK-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 67431,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DBYX9AK"
+        },
+        {
+            "filename": "smoke-overlays-23-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/smoke-overlays-23-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/page-class-details.json",
+                    "name": "Page - Class Details"
+                }
+            ],
+            "filesize": 148072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "young-woman-flexing-muscles-with-kettlebell-in-gym-P6WWJPA.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/young-woman-flexing-muscles-with-kettlebell-in-gym-P6WWJPA-800x1340.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-class-details.json",
+                    "name": "Page - Class Details"
+                }
+            ],
+            "filesize": 549076,
+            "dimensions": [
+                1146,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6WWJPA"
+        },
+        {
+            "filename": "fitness-icon-1-PV8SXFH.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fitness-icon-1-PV8SXFH.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page - Pricing"
+                },
+                {
+                    "source": "templates\/block-pricing.json",
+                    "name": "Block - Pricing"
+                }
+            ],
+            "filesize": 6821,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PV8SXFH"
+        },
+        {
+            "filename": "fitness-icon-2-PV8SXFH.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fitness-icon-2-PV8SXFH.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page - Pricing"
+                },
+                {
+                    "source": "templates\/block-pricing.json",
+                    "name": "Block - Pricing"
+                }
+            ],
+            "filesize": 2288,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PV8SXFH"
+        },
+        {
+            "filename": "bearded-bodybuilder-dressed-in-a-tank-top-AG99BVK.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/bearded-bodybuilder-dressed-in-a-tank-top-AG99BVK-800x1253.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 854015,
+            "dimensions": [
+                1226,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AG99BVK"
+        },
+        {
+            "filename": "smoke-overlays-25-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/smoke-overlays-25-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page - Pricing"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page - Single Post"
+                },
+                {
+                    "source": "templates\/page-404-page.json",
+                    "name": "Page - 404 Page"
+                }
+            ],
+            "filesize": 193593,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "young-woman-posing-and-showing-muscles-in-gym-P5HJQ7V.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/young-woman-posing-and-showing-muscles-in-gym-P5HJQ7V-800x1476.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                }
+            ],
+            "filesize": 494368,
+            "dimensions": [
+                1041,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5HJQ7V"
+        },
+        {
+            "filename": "fitness-bodybuilder-works-out-pushing-up-excercise-WB5BW9E.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/fitness-bodybuilder-works-out-pushing-up-excercise-WB5BW9E-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                }
+            ],
+            "filesize": 45957,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WB5BW9E"
+        },
+        {
+            "filename": "sports-equipment-in-gym-dumbbells-of-different-GLUGZYE.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/sports-equipment-in-gym-dumbbells-of-different-GLUGZYE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block - Testimonials"
+                }
+            ],
+            "filesize": 314374,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GLUGZYE"
+        },
+        {
+            "filename": "logo-3-QVPYTK.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-3-QVPYTK.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 22429,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QVPYTK"
+        },
+        {
+            "filename": "logo-6-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-6-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 26344,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "logo-2-QVPYTK.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-2-QVPYTK.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 22269,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QVPYTK"
+        },
+        {
+            "filename": "logo-2-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-2-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 16164,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "logo-4-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-4-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 17885,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "logo-3-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-3-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 31344,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "logo-1-QVPYTK.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-1-QVPYTK.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 23899,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QVPYTK"
+        },
+        {
+            "filename": "logo-5-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-5-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 7617,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "logo-1-MAS8JZ.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/logo-1-MAS8JZ.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 25969,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MAS8JZ"
+        },
+        {
+            "filename": "portrait-of-attractive-naked-bodybuilder-2021-08-27-23-44-22-utc_adobespark.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/portrait-of-attractive-naked-bodybuilder-2021-08-27-23-44-22-utc_adobespark-800x1323.png",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                }
+            ],
+            "filesize": 794571,
+            "dimensions": [
+                1161,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-attractive-naked-bodybuilder-WQTL6BV"
+        },
+        {
+            "filename": "young-handsome-man-doing-cardio-training-in-gym-REPHQ2B.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/young-handsome-man-doing-cardio-training-in-gym-REPHQ2B-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 79125,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REPHQ2B"
+        },
+        {
+            "filename": "young-fit-woman-boxing-workout-in-gym-REE4XME.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/young-fit-woman-boxing-workout-in-gym-REE4XME-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 73689,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REE4XME"
+        },
+        {
+            "filename": "handsome-man-work-out-in-gym-MBPU9HH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/handsome-man-work-out-in-gym-MBPU9HH-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 69151,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MBPU9HH"
+        },
+        {
+            "filename": "women-practising-yoga-at-gym-78JFYQ5.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/women-practising-yoga-at-gym-78JFYQ5-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 66704,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78JFYQ5"
+        },
+        {
+            "filename": "personal-trainer-with-woman-in-the-gym-P3ZJPHQ.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/personal-trainer-with-woman-in-the-gym-P3ZJPHQ-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-classes-ii.json",
+                    "name": "Block \u2013 Classes II"
+                }
+            ],
+            "filesize": 85811,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3ZJPHQ"
+        },
+        {
+            "filename": "couple-doing-push-ups-with-kettlebells-YM43NZ6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/couple-doing-push-ups-with-kettlebells-YM43NZ6-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-classes.json",
+                    "name": "Page - Classes"
+                },
+                {
+                    "source": "templates\/block-schedule.json",
+                    "name": "Block - Schedule"
+                }
+            ],
+            "filesize": 62459,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YM43NZ6"
+        },
+        {
+            "filename": "smoke-overlays-47-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/smoke-overlays-47-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                }
+            ],
+            "filesize": 138414,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "female-bodybuilder-training-at-the-gym-2021-09-03-17-51-56-utc.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/female-bodybuilder-training-at-the-gym-2021-09-03-17-51-56-utc-800x1120.png",
+            "templates": [
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                }
+            ],
+            "filesize": 603439,
+            "dimensions": [
+                1372,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-bodybuilder-training-at-the-gym-4DEYDHF"
+        },
+        {
+            "filename": "fitness-icon-3-PV8SXFH.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/fitness-icon-3-PV8SXFH.png",
+            "templates": [
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                },
+                {
+                    "source": "templates\/block-features-i.json",
+                    "name": "Block - Features I"
+                }
+            ],
+            "filesize": 5977,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PV8SXFH"
+        },
+        {
+            "filename": "smoke-overlays-45-AE77V6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/smoke-overlays-45-AE77V6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                },
+                {
+                    "source": "templates\/page-blog.json",
+                    "name": "Page - Blog"
+                }
+            ],
+            "filesize": 97741,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-https:\/\/elements.envato.com\/image-GLJJB9S"
+        },
+        {
+            "filename": "muscular-bodybuilder-guy-doing-exercises-with-dumb-P4AR4V5.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/muscular-bodybuilder-guy-doing-exercises-with-dumb-P4AR4V5-800x1509.png",
+            "templates": [
+                {
+                    "source": "templates\/page-trainers.json",
+                    "name": "Page - Trainers"
+                },
+                {
+                    "source": "templates\/page-pricing.json",
+                    "name": "Page - Pricing"
+                }
+            ],
+            "filesize": 723783,
+            "dimensions": [
+                1018,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4AR4V5"
+        },
+        {
+            "filename": "handsome-brutal-bodybuilder-posing-with-dumbells-2021-08-29-10-28-13-utc.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/handsome-brutal-bodybuilder-posing-with-dumbells-2021-08-29-10-28-13-utc-800x1189.png",
+            "templates": [
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                }
+            ],
+            "filesize": 656994,
+            "dimensions": [
+                1292,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-brutal-bodybuilder-posing-with-dumbells-EE8UWFR"
+        },
+        {
+            "filename": "fitness-equipment-P58HSNK.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/fitness-equipment-P58HSNK-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-review.json",
+                    "name": "Page - Review"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page - Single Post"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 153091,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P58HSNK"
+        },
+        {
+            "filename": "portrait-of-bearded-shirtless-bodybuilder-9SGSSCX.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/portrait-of-bearded-shirtless-bodybuilder-9SGSSCX-800x1226.png",
+            "templates": [
+                {
+                    "source": "templates\/page-blog.json",
+                    "name": "Page - Blog"
+                }
+            ],
+            "filesize": 689481,
+            "dimensions": [
+                1253,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9SGSSCX"
+        },
+        {
+            "filename": "rear-three-quarter-view-of-beautiful-bodybuilder-2021-08-26-19-58-23-utc.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/rear-three-quarter-view-of-beautiful-bodybuilder-2021-08-26-19-58-23-utc-800x1483.png",
+            "templates": [
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page - Contact"
+                }
+            ],
+            "filesize": 615035,
+            "dimensions": [
+                1036,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rear-three-quarter-view-of-beautiful-bodybuilder-PCUC2UC"
+        },
+        {
+            "filename": "shirtless-sportsman-posing-in-gym-XCY43BK.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/shirtless-sportsman-posing-in-gym-XCY43BK-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-class-details.json",
+                    "name": "Page - Class Details"
+                }
+            ],
+            "filesize": 91213,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XCY43BK"
+        },
+        {
+            "filename": "sports-equipment-in-gym-dumbbells-of-different-2BA8UT4.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/sports-equipment-in-gym-dumbbells-of-different-2BA8UT4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-class-details.json",
+                    "name": "Page - Class Details"
+                },
+                {
+                    "source": "templates\/block-features-ii.json",
+                    "name": "Block - Features II"
+                }
+            ],
+            "filesize": 113025,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2BA8UT4"
+        },
+        {
+            "filename": "woman-preparing-to-lift-barbell-in-gym-U9ZCU47.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/woman-preparing-to-lift-barbell-in-gym-U9ZCU47-800x546.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-class-details.json",
+                    "name": "Page - Class Details"
+                }
+            ],
+            "filesize": 110760,
+            "dimensions": [
+                1000,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U9ZCU47"
+        },
+        {
+            "filename": "crossfit-group-training-LMXVNTF.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/crossfit-group-training-LMXVNTF-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page - Single Post"
+                }
+            ],
+            "filesize": 73042,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LMXVNTF"
+        },
+        {
+            "filename": "portrait-of-bearded-shirtless-bodybuilder-GEFUV9M.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/portrait-of-bearded-shirtless-bodybuilder-GEFUV9M-800x1338.png",
+            "templates": [
+                {
+                    "source": "templates\/page-faq.json",
+                    "name": "Page - FAQ"
+                }
+            ],
+            "filesize": 682691,
+            "dimensions": [
+                1148,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GEFUV9M"
+        },
+        {
+            "filename": "female-bodybuilder-training-at-the-gym-2021-09-03-17-52-02-utc.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/female-bodybuilder-training-at-the-gym-2021-09-03-17-52-02-utc-800x1303.png",
+            "templates": [
+                {
+                    "source": "templates\/page-404-page.json",
+                    "name": "Page - 404 Page"
+                }
+            ],
+            "filesize": 492706,
+            "dimensions": [
+                1179,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-bodybuilder-training-at-the-gym-MCMM59K"
+        },
+        {
+            "filename": "female-bodybuilder-sitting-with-chains-on-neck-66F6JTW.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/female-bodybuilder-sitting-with-chains-on-neck-66F6JTW-800x792.png",
+            "templates": [
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page - Coming Soon"
+                }
+            ],
+            "filesize": 905326,
+            "dimensions": [
+                1920,
+                1901
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-66F6JTW"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+2022-02-28T11:42:04+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in /home/u391020142/domains/aknirob.com/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:286
+Stack trace:
+#0 /home/u391020142/domains/aknirob.com/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/u391020142/domains/aknirob.com/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/u391020142/domains/aknirob.com/public_html/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/u391020142/domains/akni in /home/u391020142/domains/aknirob.com/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 286
+

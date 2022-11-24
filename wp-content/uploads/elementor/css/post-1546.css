@@ -1,0 +1,38 @@
+.elementor-1546 .elementor-element.elementor-element-a767a44:not(.elementor-motion-effects-element-type-background), .elementor-1546 .elementor-element.elementor-element-a767a44 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-1546 .elementor-element.elementor-element-a767a44{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 0px 20px 0px;z-index:999;}.elementor-1546 .elementor-element.elementor-element-a767a44 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1546 .elementor-element.elementor-element-6e57a981{text-align:left;}.elementor-1546 .elementor-element.elementor-element-6e57a981 img{width:230px;}.elementor-bc-flex-widget .elementor-1546 .elementor-element.elementor-element-f4ff6b9.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-1546 .elementor-element.elementor-element-f4ff6b9.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-1546 .elementor-element.elementor-element-f4ff6b9.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon-wrapper{text-align:right;}.elementor-1546 .elementor-element.elementor-element-fc3e932.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-1546 .elementor-element.elementor-element-fc3e932.elementor-view-framed .elementor-icon, .elementor-1546 .elementor-element.elementor-element-fc3e932.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-1546 .elementor-element.elementor-element-fc3e932.elementor-view-framed .elementor-icon, .elementor-1546 .elementor-element.elementor-element-fc3e932.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon{font-size:40px;}.elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon i, .elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon svg{transform:rotate(0deg);}.elementor-1546 .elementor-element.elementor-element-fc3e932 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-1546 .elementor-element.elementor-element-fc3e932{z-index:1000;}@media(max-width:1024px){.elementor-1546 .elementor-element.elementor-element-6e57a981 > .elementor-widget-container{padding:0px 0px 0px 20px;}.elementor-1546 .elementor-element.elementor-element-fc3e932 > .elementor-widget-container{padding:0px 20px 0px 30px;}}@media(max-width:767px){.elementor-1546 .elementor-element.elementor-element-a767a44{padding:20px 10px 10px 10px;}.elementor-1546 .elementor-element.elementor-element-fcdb09b{width:50%;}.elementor-bc-flex-widget .elementor-1546 .elementor-element.elementor-element-fcdb09b.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-1546 .elementor-element.elementor-element-fcdb09b.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-1546 .elementor-element.elementor-element-6e57a981{text-align:center;}.elementor-1546 .elementor-element.elementor-element-6e57a981 img{width:100%;}.elementor-1546 .elementor-element.elementor-element-6e57a981 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-1546 .elementor-element.elementor-element-c33a813{width:2%;}.elementor-1546 .elementor-element.elementor-element-f4ff6b9{width:40%;}.elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon-wrapper{text-align:right;}.elementor-1546 .elementor-element.elementor-element-fc3e932 .elementor-icon{font-size:30px;}.elementor-1546 .elementor-element.elementor-element-fc3e932 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}}/* Start custom CSS for theme-site-logo, class: .elementor-element-6e57a981 */.dark .elementor-1546 .elementor-element.elementor-element-6e57a981
+  {
+    -webkit-filter: invert(100%); /* Safari/Chrome */
+    filter: invert(100%);
+}/* End custom CSS */
+/* Start custom CSS for icon, class: .elementor-element-fc3e932 */.dark .elementor *, .elementor :after, .elementor :before{
+    fill:black;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-a767a44 */.dark .elementor-1546 .elementor-element.elementor-element-ca2a400 .jeg-elementor-kit.jkit-search .jkit-search-modal i{
+    color: black;
+}
+
+.dark .elementor-1546 .elementor-element.elementor-element-a767a44:not(.elementor-motion-effects-element-type-background), .elementor-1546 .elementor-element.elementor-element-a767a44 > .elementor-motion-effects-container > .elementor-motion-effects-layer{
+    background: #EEEEEE;
+}/* End custom CSS */
+/* Start custom CSS */.dark .elementor-1546{
+    background-color: #EEEEEE;
+}
+.elementor-1546{
+    margin: 0px -50px 0px -52px;
+}
+
+@media only screen and (max-width: 600px)
+{
+  .elementor-1546{
+    margin: 0px;
+    padding: 0px;
+
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .elementor-1546{
+    margin: 0px;
+    padding: 0px;
+ }
+    
+}/* End custom CSS */

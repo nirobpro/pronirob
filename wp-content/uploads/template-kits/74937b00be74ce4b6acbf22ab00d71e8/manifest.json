@@ -1,0 +1,1661 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Bidzen - NFT Marketplace",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer Style 01",
+            "screenshot": "screenshots\/footer-style-01.jpg",
+            "source": "templates\/footer-style-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/?elementor_library=footer-style-01",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer Style 02",
+            "screenshot": "screenshots\/footer-style-02.jpg",
+            "source": "templates\/footer-style-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/footer-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Email Address Block for Page Home 01",
+            "screenshot": "screenshots\/form-email-address-block-for-page-home-01.jpg",
+            "source": "templates\/form-email-address-block-for-page-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/form-email-address-block-for-page-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Message Block for Page Contact",
+            "screenshot": "screenshots\/form-message-block-for-page-contact.jpg",
+            "source": "templates\/form-message-block-for-page-contact.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/form-message-block-for-page-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Hot Collection Block 01 for Page Home 02",
+            "screenshot": "screenshots\/slider-hot-collection-block-01-for-page-home-02.jpg",
+            "source": "templates\/slider-hot-collection-block-01-for-page-home-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/slider-hot-collection-block-01-for-page-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Best Sellers Block 01 for Page Creators",
+            "screenshot": "screenshots\/slider-best-sellers-block-01-for-page-creators.jpg",
+            "source": "templates\/slider-best-sellers-block-01-for-page-creators.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/slider-best-sellers-block-01-for-page-creators\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Auction Block 01 for Page Item",
+            "screenshot": "screenshots\/slider-auction-block-01-for-page-item.jpg",
+            "source": "templates\/slider-auction-block-01-for-page-item.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/slider-auction-block-01-for-page-item\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Hot Collection Block 01 for Page Author",
+            "screenshot": "screenshots\/slider-hot-collection-block-01-for-page-author.jpg",
+            "source": "templates\/slider-hot-collection-block-01-for-page-author.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/slider-hot-collection-block-01-for-page-author\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Explore 1",
+            "screenshot": "screenshots\/explore-1.jpg",
+            "source": "templates\/explore-1.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/explore-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Explore 2",
+            "screenshot": "screenshots\/explore-2.jpg",
+            "source": "templates\/explore-2.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/explore-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Creators",
+            "screenshot": "screenshots\/creators.jpg",
+            "source": "templates\/creators.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/creators\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Archive Products",
+            "screenshot": "screenshots\/archive-products.jpg",
+            "source": "templates\/archive-products.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/?elementor_library=elementor-products-archive-2332",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Posts",
+            "screenshot": "screenshots\/archive-posts.jpg",
+            "source": "templates\/archive-posts.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/?elementor_library=elementor-archive-2343",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Author",
+            "screenshot": "screenshots\/author.jpg",
+            "source": "templates\/author.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/author\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Wallet Connect",
+            "screenshot": "screenshots\/wallet-connect.jpg",
+            "source": "templates\/wallet-connect.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/wallet-connect\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/demothemesflat.com\/bidzenkit\/?elementor_library=elementor-error-404-2324",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Cryptocurrency Product for WooCommerce",
+            "version": "3.14.0",
+            "file": "cryptocurrency-product-for-woocommerce\/cryptocurrency-product-for-woocommerce.php",
+            "author": "ethereumicoio"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.5.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.8",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "6.1.1",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-page-title.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/bg-page-title-800x92.jpg",
+            "templates": [
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                },
+                {
+                    "source": "templates\/archive-products.json",
+                    "name": "Archive Products"
+                },
+                {
+                    "source": "templates\/archive-posts.json",
+                    "name": "Archive Posts"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                },
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 298217,
+            "dimensions": [
+                1920,
+                220
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/8bghKxNU1j0"
+        },
+        {
+            "filename": "img-newletter.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img-newletter.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                },
+                {
+                    "source": "templates\/archive-products.json",
+                    "name": "Archive Products"
+                },
+                {
+                    "source": "templates\/archive-posts.json",
+                    "name": "Archive Posts"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                },
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 56154,
+            "dimensions": [
+                342,
+                308
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/ico-cryptocurrency-illustration-bitcoin-tokens-crowdfunding-investment_2890898.htm"
+        },
+        {
+            "filename": "logo_dark.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/logo_dark.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 3367,
+            "dimensions": [
+                151,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "collection-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/collection-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-home-02.json",
+                    "name": "Slider Hot Collection Block 01 for Page Home 02"
+                }
+            ],
+            "filesize": 41382,
+            "dimensions": [
+                170,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/very-beautiful-lawn-sunset_5423605.htm"
+        },
+        {
+            "filename": "avt-3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-home-02.json",
+                    "name": "Slider Hot Collection Block 01 for Page Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 12012,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-cartoon-character-avatar-isolated-3d-rendering_16967763.htm"
+        },
+        {
+            "filename": "avt-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-best-sellers-block-01-for-page-creators.json",
+                    "name": "Slider Best Sellers Block 01 for Page Creators"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 14745,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/young-woman-working-with-computer-office-businesswoman-talking-smartphone-during-reading-book_20720857.htm"
+        },
+        {
+            "filename": "img_auction_Home01-NSCD965-e1642478884891.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_auction_Home01-NSCD965-e1642478884891.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                }
+            ],
+            "filesize": 1372,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NSCD965"
+        },
+        {
+            "filename": "img_auction_Home01-PH4MR2N-e1642478386985.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_auction_Home01-PH4MR2N-e1642478386985.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                }
+            ],
+            "filesize": 1225,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PH4MR2N"
+        },
+        {
+            "filename": "img_auction_Home01-PU9DAMW-e1642478395539.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_auction_Home01-PU9DAMW-e1642478395539.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                }
+            ],
+            "filesize": 1177,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU9DAMW"
+        },
+        {
+            "filename": "img_auction_Home01-5EP5GAB-e1642478871150.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_auction_Home01-5EP5GAB-e1642478871150.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                }
+            ],
+            "filesize": 1402,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5EP5GAB"
+        },
+        {
+            "filename": "item-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                }
+            ],
+            "filesize": 8954,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/abstract-background-with-rocket_17880077.htm"
+        },
+        {
+            "filename": "img_auction_Home02-TH5Y9TX-e1642478893293.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_auction_Home02-TH5Y9TX-e1642478893293.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 1410,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TH5Y9TX"
+        },
+        {
+            "filename": "item-5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-auction-block-01-for-page-item.json",
+                    "name": "Slider Auction Block 01 for Page Item"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 12276,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/collage-with-sculpture-human-face-pop-art-style-modern-creative-concept-image-with-ancient-statue-head-zine-culture-contemporary-art-poster-funky-punk-minimalism-crypto-art-design_20185536.htm"
+        },
+        {
+            "filename": "collection-7.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/collection-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-author.json",
+                    "name": "Slider Hot Collection Block 01 for Page Author"
+                }
+            ],
+            "filesize": 89928,
+            "dimensions": [
+                270,
+                170
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wQLAGv4_OYs"
+        },
+        {
+            "filename": "img_collection_Home01-KR88FYP-e1642478411772.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_collection_Home01-KR88FYP-e1642478411772.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-author.json",
+                    "name": "Slider Hot Collection Block 01 for Page Author"
+                }
+            ],
+            "filesize": 2762,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KR88FYP"
+        },
+        {
+            "filename": "collection-8.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/collection-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-author.json",
+                    "name": "Slider Hot Collection Block 01 for Page Author"
+                }
+            ],
+            "filesize": 51749,
+            "dimensions": [
+                270,
+                170
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pVq6YhmDPtk"
+        },
+        {
+            "filename": "img_collection_Home01-PQNY3TT-e1642478419956.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img_collection_Home01-PQNY3TT-e1642478419956.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-hot-collection-block-01-for-page-author.json",
+                    "name": "Slider Hot Collection Block 01 for Page Author"
+                }
+            ],
+            "filesize": 2911,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQNY3TT"
+        },
+        {
+            "filename": "bg-slider.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/bg-slider-800x527.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 143121,
+            "dimensions": [
+                1920,
+                1265
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-slider-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img-slider-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 369855,
+            "dimensions": [
+                660,
+                632
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/astronaut-sitting-stack-books-with-working-laptop_16914059.htm"
+        },
+        {
+            "filename": "item-6.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 46414,
+            "dimensions": [
+                230,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/retro-3d-shapes-vaporwave-style_14568077.htm"
+        },
+        {
+            "filename": "item-7.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 13189,
+            "dimensions": [
+                127,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-render-icon-dogecoin-purse-3_20483120.htm"
+        },
+        {
+            "filename": "item-8.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 27067,
+            "dimensions": [
+                127,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-internet-label-fiber-with-rocket-400-megabytes_13319041.htm"
+        },
+        {
+            "filename": "item-9.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 32153,
+            "dimensions": [
+                275,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/abstract-background-with-rocket_17880077.htm"
+        },
+        {
+            "filename": "item-10.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/explore-1.json",
+                    "name": "Explore 1"
+                },
+                {
+                    "source": "templates\/explore-2.json",
+                    "name": "Explore 2"
+                },
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 34185,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/minimal-scene-sunglasses-headphone-human-head-sculpture-music-concept-3d-rendering_17816975.htm"
+        },
+        {
+            "filename": "item-11.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 55346,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/halloween-landing-page-template-with-3d-rendering-illustration_17771035.htm"
+        },
+        {
+            "filename": "avt-2.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 10872,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-cartoon-character-with-denim-jacket-isolated-3d-rendering_16967787.htm"
+        },
+        {
+            "filename": "avt-4.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 13358,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-cartoon-character-avatar-isolated-3d-rendering_16967767.htm"
+        },
+        {
+            "filename": "avt-5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 12289,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-cartoon-character-with-denim-jacket-isolated-3d-rendering_16967809.htm"
+        },
+        {
+            "filename": "avt-6.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/avt-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/author.json",
+                    "name": "Author"
+                }
+            ],
+            "filesize": 13891,
+            "dimensions": [
+                115,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-cartoon-character-avatar-isolated-3d-rendering_17162481.htm"
+        },
+        {
+            "filename": "category-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 8745,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.es\/psd-premium\/lanzamiento-cohete-renderizado-3d-ilustracion-marketing-empresarial_21330811.htm"
+        },
+        {
+            "filename": "category-2.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 9010,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-rendering-cute-bear-sitting-planet-rocket-passing-by-illustration_21365052.htm"
+        },
+        {
+            "filename": "category-3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 7326,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-collection-with-hands-holding-pencil_13678988.htm"
+        },
+        {
+            "filename": "category-4.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 10851,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-render-icon-euro-plant_20741164.htm"
+        },
+        {
+            "filename": "category-5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 8657,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/3d-business-marketing-background_16691737.htm"
+        },
+        {
+            "filename": "category-6.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/category-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 9026,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/3d-safe-box-with-golden-dollar-coins_13677892.htm"
+        },
+        {
+            "filename": "img-slider-5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img-slider-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 33843,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/target-3d-design-thinking-illustrations_21210998.htm"
+        },
+        {
+            "filename": "img-slider-3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img-slider-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 25362,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/abstract-background-with-rocket_17880077.htm"
+        },
+        {
+            "filename": "img-slider-4.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/img-slider-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 30851,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/3d-rendering-cute-bear-character-riding-rocket-illustration_21365080.htm"
+        },
+        {
+            "filename": "icon-10.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4731,
+            "dimensions": [
+                141,
+                141
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-11.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1461,
+            "dimensions": [
+                144,
+                141
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-12.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 10823,
+            "dimensions": [
+                147,
+                147
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-13.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-13.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6446,
+            "dimensions": [
+                141,
+                141
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "item-25.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 18162,
+            "dimensions": [
+                230,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/persons-hand-forming-heart-8834492\/"
+        },
+        {
+            "filename": "item-26.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 20105,
+            "dimensions": [
+                127,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/black-beetle-painting-1724182\/"
+        },
+        {
+            "filename": "item-27.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 24278,
+            "dimensions": [
+                127,
+                107
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/blue-arcade-joystick-3800795\/"
+        },
+        {
+            "filename": "item-28.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 47577,
+            "dimensions": [
+                275,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "item-19.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 33906,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-psd\/abstract-background-with-rocket_17880077.htm"
+        },
+        {
+            "filename": "item-29.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/item-29.jpg",
+            "templates": [
+                {
+                    "source": "templates\/creators.json",
+                    "name": "Creators"
+                }
+            ],
+            "filesize": 7515,
+            "dimensions": [
+                220,
+                230
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-psd\/halloween-landing-page-template-with-ghost-3d-rendering-illustration_17318099.htm"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 3478,
+            "dimensions": [
+                84,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 2530,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 666,
+            "dimensions": [
+                94,
+                94
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 2550,
+            "dimensions": [
+                97,
+                97
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 2556,
+            "dimensions": [
+                174,
+                92
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 2483,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 4230,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-8.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 809,
+            "dimensions": [
+                94,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-9.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/bidzenkit\/wp-content\/uploads\/2022\/01\/icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/wallet-connect.json",
+                    "name": "Wallet Connect"
+                }
+            ],
+            "filesize": 1645,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        }
+    ]
+}

@@ -1,0 +1,677 @@
+0000.063 (0) Opened log file at time: Sat, 28 May 2022 01:12:29 +0000 on https://aknirob.com
+0000.064 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 5.9.3 PHP: 7.4.26 (litespeed, Linux us-imm-web270.main-hosting.eu 4.18.0-305.12.1.lve.el7h.x86_64 #1 SMP Tue Aug 17 03:13:08 EDT 2021 x86_64) MySQL: 10.5.12-MariaDB-cll-lve (max packet size=536870912) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 9M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.065 (0) Free space on disk containing Updraft's temporary directory: 3276596.2 MB
+0000.072 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.072 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.108 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1653095434, seconds_ago=604915)
+0000.109 (0) Set semaphore last lock (fd) time to 2022-05-28 01:12:29
+0000.110 (0) Semaphore lock (fd) complete
+0000.112 (0) Backup run: resumption=0, nonce=6a44e1d6bd39, file_nonce=6a44e1d6bd39 begun at=1653700349 (0s ago), job type=backup
+0000.113 (0) Scheduling a resumption (1) after 300 seconds (1653700649) in case this run gets aborted
+0000.134 (0) Checking if we have a zip executable available
+0000.134 (0) Testing: /usr/bin/zip
+0000.149 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.150 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.151 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.151 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.152 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.156 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.157 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.212 (0) Working binary zip found: /usr/bin/zip
+0000.213 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.214 (0) Creation of backups of directories: beginning
+0000.216 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.402 (0) Total entities for the zip file: 1690 directories, 8077 files (0 skipped as non-modified), 124.5 MB
+0002.405 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.407 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.409 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.411 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.413 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.416 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.417 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.419 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.420 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 8077 files batched, 854 (854) added so far); re-opening (prior size: 0 KB)
+0008.073 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: size is now: 5.40 MB
+0008.074 (0) A useful amount of data was added after this amount of zip processing: 8.6 s (normalised: 8.6 s, rate: 2975.7 KB/s)
+0008.076 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 900 files added (on-disk size: 5520.5 KB)
+0008.078 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1000 files added (on-disk size: 5520.5 KB)
+0008.081 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1100 files added (on-disk size: 5520.5 KB)
+0008.083 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1200 files added (on-disk size: 5520.5 KB)
+0008.085 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1300 files added (on-disk size: 5520.5 KB)
+0008.087 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1400 files added (on-disk size: 5520.5 KB)
+0008.089 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1500 files added (on-disk size: 5520.5 KB)
+0008.090 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1600 files added (on-disk size: 5520.5 KB)
+0008.092 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1700 files added (on-disk size: 5520.5 KB)
+0008.094 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1800 files added (on-disk size: 5520.5 KB)
+0008.095 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.7 MB, 8077 files batched, 1001 (1855) added so far); re-opening (prior size: 5520.5 KB)
+0015.253 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: size is now: 7.30 MB
+0015.256 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 1900 files added (on-disk size: 7435.2 KB)
+0015.258 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2000 files added (on-disk size: 7435.2 KB)
+0015.260 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2100 files added (on-disk size: 7435.2 KB)
+0015.263 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2200 files added (on-disk size: 7435.2 KB)
+0015.265 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2300 files added (on-disk size: 7435.2 KB)
+0015.267 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2400 files added (on-disk size: 7435.2 KB)
+0015.270 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2500 files added (on-disk size: 7435.2 KB)
+0015.273 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2600 files added (on-disk size: 7435.2 KB)
+0015.276 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2700 files added (on-disk size: 7435.2 KB)
+0015.279 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2800 files added (on-disk size: 7435.2 KB)
+0015.280 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.4 MB, 8077 files batched, 1001 (2856) added so far); re-opening (prior size: 7435.2 KB)
+0022.856 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: size is now: 11.50 MB
+0022.860 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 2900 files added (on-disk size: 11792.1 KB)
+0022.862 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3000 files added (on-disk size: 11792.1 KB)
+0022.866 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3100 files added (on-disk size: 11792.1 KB)
+0022.868 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3200 files added (on-disk size: 11792.1 KB)
+0022.871 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3300 files added (on-disk size: 11792.1 KB)
+0022.874 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 8077 files batched, 543 (3399) added so far); re-opening (prior size: 11792.1 KB)
+0027.379 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: size is now: 18.10 MB
+0027.381 (0) A useful amount of data was added after this amount of zip processing: 4.9 s (normalised: 4.9 s, rate: 5210.6 KB/s)
+0027.382 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.9153289794922, normalised_time=4.9130370510064, max_time=27.318957090378, data points known=1, old_max_bytes=26214400, new_max_bytes=87459149)
+0027.384 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3400 files added (on-disk size: 18545.1 KB)
+0027.386 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3500 files added (on-disk size: 18545.1 KB)
+0027.388 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3600 files added (on-disk size: 18545.1 KB)
+0027.390 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3700 files added (on-disk size: 18545.1 KB)
+0027.392 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3800 files added (on-disk size: 18545.1 KB)
+0027.394 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 3900 files added (on-disk size: 18545.1 KB)
+0027.396 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4000 files added (on-disk size: 18545.1 KB)
+0027.398 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4100 files added (on-disk size: 18545.1 KB)
+0027.400 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4200 files added (on-disk size: 18545.1 KB)
+0027.402 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4300 files added (on-disk size: 18545.1 KB)
+0027.404 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.3 MB, 8077 files batched, 1001 (4400) added so far); re-opening (prior size: 18545.1 KB)
+0035.490 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: size is now: 25.00 MB
+0035.493 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4400 files added (on-disk size: 25633.3 KB)
+0035.495 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4500 files added (on-disk size: 25633.3 KB)
+0035.497 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4600 files added (on-disk size: 25633.3 KB)
+0035.499 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4700 files added (on-disk size: 25633.3 KB)
+0035.501 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4800 files added (on-disk size: 25633.3 KB)
+0035.503 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 4900 files added (on-disk size: 25633.3 KB)
+0035.505 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5000 files added (on-disk size: 25633.3 KB)
+0035.506 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5100 files added (on-disk size: 25633.3 KB)
+0035.508 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5200 files added (on-disk size: 25633.3 KB)
+0035.510 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5300 files added (on-disk size: 25633.3 KB)
+0035.512 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5400 files added (on-disk size: 25633.3 KB)
+0035.512 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.1 MB, 8077 files batched, 1001 (5401) added so far); re-opening (prior size: 25633.3 KB)
+0043.462 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5500 files added (on-disk size: 27645.6 KB)
+0043.464 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5600 files added (on-disk size: 27645.6 KB)
+0043.466 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5700 files added (on-disk size: 27645.6 KB)
+0043.468 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5800 files added (on-disk size: 27645.6 KB)
+0043.470 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 5900 files added (on-disk size: 27645.6 KB)
+0043.472 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6000 files added (on-disk size: 27645.6 KB)
+0043.474 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6100 files added (on-disk size: 27645.6 KB)
+0043.476 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6200 files added (on-disk size: 27645.6 KB)
+0043.478 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6300 files added (on-disk size: 27645.6 KB)
+0043.480 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6400 files added (on-disk size: 27645.6 KB)
+0043.480 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.1 MB, 8077 files batched, 1001 (6402) added so far); re-opening (prior size: 27645.6 KB)
+0051.279 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6500 files added (on-disk size: 29940.7 KB)
+0051.281 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6600 files added (on-disk size: 29940.7 KB)
+0051.283 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6700 files added (on-disk size: 29940.7 KB)
+0051.285 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6800 files added (on-disk size: 29940.7 KB)
+0051.287 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 6900 files added (on-disk size: 29940.7 KB)
+0051.289 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7000 files added (on-disk size: 29940.7 KB)
+0051.292 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7100 files added (on-disk size: 29940.7 KB)
+0051.294 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7200 files added (on-disk size: 29940.7 KB)
+0051.297 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7300 files added (on-disk size: 29940.7 KB)
+0051.299 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7400 files added (on-disk size: 29940.7 KB)
+0051.300 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.4 MB, 8077 files batched, 1001 (7403) added so far); re-opening (prior size: 29940.7 KB)
+0058.876 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7500 files added (on-disk size: 31675.9 KB)
+0058.879 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7600 files added (on-disk size: 31675.9 KB)
+0058.881 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7700 files added (on-disk size: 31675.9 KB)
+0058.884 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7800 files added (on-disk size: 31675.9 KB)
+0058.887 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 7900 files added (on-disk size: 31675.9 KB)
+0058.890 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.tmp: 8000 files added (on-disk size: 31675.9 KB)
+0064.885 (0) Creating zip file manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.list-temp.tmp)
+0064.903 (0) Successfully created zip file manifest (size: 704011)
+0065.329 (0) Created plugins zip (0) - 35574.6 KB in 65.1 s (546.4 KB/s) (sha1: ce274acc957b58873d64e5026a547168f5d4b976, sha256: 85342f37653562afbd0f360734a005294aa98cd8a998093f584eade7e78758f9)
+0065.332 (0) Beginning creation of dump of themes (split every: 400 MB)
+0065.360 (0) Total entities for the zip file: 9 directories, 40 files (0 skipped as non-modified), 0.6 MB
+0065.501 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip.tmp: size is now: 0.40 MB
+0065.504 (0) Creating zip file manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip.list-temp.tmp)
+0065.504 (0) Successfully created zip file manifest (size: 2304)
+0065.511 (0) Created themes zip (0) - 440.7 KB in 0.2 s (2469.3 KB/s) (sha1: aab9baadd228a8516b17ef2961d29386b03d8b57, sha256: 95d3b0a485ab6081e19247c87efd01053b42ee3613dab10a23d61b8ec33b2ba3)
+0065.513 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0065.514 (0) Looking for candidates to backup in: /home/u391020142/domains/aknirob.com/public_html/wp-content/uploads
+0065.514 (0) finding files: ac_assets: adding to list (1)
+0065.515 (0) finding files: template-kits: adding to list (2)
+0065.515 (0) finding files: 2021: adding to list (3)
+0065.516 (0) finding files: caos: adding to list (4)
+0065.516 (0) finding files: theplus-addons: adding to list (5)
+0065.516 (0) finding files: wpcf7_uploads: adding to list (6)
+0065.517 (0) finding files: woocommerce_uploads: adding to list (7)
+0065.517 (0) finding files: wc-logs: adding to list (8)
+0065.518 (0) finding files: ithemes-security: adding to list (9)
+0065.518 (0) finding files: elementor: adding to list (10)
+0065.519 (0) finding files: wpmss: adding to list (11)
+0065.519 (0) finding files: 2022: adding to list (12)
+0065.519 (0) finding files: essential-addons-elementor: adding to list (13)
+0065.520 (0) finding files: wpforms: adding to list (14)
+0065.520 (0) finding files: omgf: adding to list (15)
+0065.521 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0065.924 (0) Total entities for the zip file: 60 directories, 1219 files (0 skipped as non-modified), 86.1 MB
+0065.926 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0065.928 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0065.930 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0065.932 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0065.934 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0065.935 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0065.937 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0065.939 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0065.941 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0065.943 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0065.943 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (80.8 MB, 1219 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0077.300 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: size is now: 60.70 MB
+0077.304 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 1100 files added (on-disk size: 62171.4 KB)
+0077.306 (0) Zip: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.tmp: 1200 files added (on-disk size: 62171.4 KB)
+0083.348 (0) Creating zip file manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.list-temp.tmp)
+0083.352 (0) Successfully created zip file manifest (size: 92887)
+0084.084 (0) Created uploads zip (0) - 65454.6 KB in 18.6 s (3526.1 KB/s) (sha1: 99969d9129bfcf2ac0f6fca632beb0ef4934424d, sha256: 2678ec5c99a2ed0821b8f21260186aca6d96dd9e469da32cab603308fb2cecbd)
+0084.086 (0) Beginning backup of other directories found in the content directory (index: 0)
+0084.087 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0084.087 (0) Looking for candidates to backup in: /home/u391020142/domains/aknirob.com/public_html/wp-content
+0084.087 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0084.088 (0) finding files: uploads: skipping: this is the uploads directory
+0084.088 (0) finding files: cache: skipping: excluded by options
+0084.088 (0) finding files: updraft: skipping: this is the updraft directory
+0084.089 (0) finding files: advanced-cache.php: adding to list (1)
+0084.089 (0) finding files: plugins: skipping: this is the plugins directory
+0084.089 (0) finding files: themes: skipping: this is the themes directory
+0084.090 (0) finding files: index.php: adding to list (2)
+0084.090 (0) finding files: upgrade: skipping: excluded by options
+0084.090 (0) finding files: wp-rocket-config: adding to list (3)
+0084.092 (0) Total entities for the zip file: 1 directories, 4 files (0 skipped as non-modified), 0 MB
+0084.126 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip.tmp: size is now: 0.00 MB
+0084.128 (0) Creating zip file manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip.list-temp.tmp)
+0084.129 (0) Successfully created zip file manifest (size: 149)
+0084.131 (0) Created others zip (0) - 2.5 KB in 0 s (62.3 KB/s) (sha1: aa89be15c74073d393f765433d70d8218686d772, sha256: 18df6a7d0b599620c3955e26e2ebcfe2ad44109778ec7654d9bcad9cbba4552c)
+0084.133 (0) Saving backup status to database (elements: 8)
+0084.136 (0) Beginning creation of database dump (WordPress DB)
+0084.136 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0084.138 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0084.158 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1521 bytes total)
+0084.159 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0084.167 (0) Table wp_options: Total expected rows (approximate): 1082
+0084.219 (0) Table wp_options: Rows added in this batch (next record: 185773): 1092 (uncompressed bytes in this segment=1465433) in 0.06 seconds
+0084.222 (0) Table wp_options: finishing file(s) (2, 199.3 KB)
+0084.248 (0) Table wp_users: Total expected rows (via COUNT): 2
+0084.249 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.250 (0) Table wp_users: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1542) in 0.03 seconds
+0084.253 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0084.258 (0) Table wp_usermeta: Total expected rows (via COUNT): 84
+0084.258 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.260 (0) Table wp_usermeta: Rows added in this batch (next record: 174): 84 (uncompressed bytes in this segment=12348) in 0.01 seconds
+0084.263 (0) Table wp_usermeta: finishing file(s) (2, 4 KB)
+0084.267 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 13
+0084.267 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.269 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 7661): 13 (uncompressed bytes in this segment=5783) in 0.00 seconds
+0084.272 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.2 KB)
+0084.274 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0084.276 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=632) in 0.00 seconds
+0084.278 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0084.280 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0084.281 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.282 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=737) in 0.00 seconds
+0084.284 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0084.287 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 35
+0084.287 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.289 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 22920): 35 (uncompressed bytes in this segment=3918) in 0.00 seconds
+0084.291 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.8 KB)
+0084.342 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0084.343 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=701) in 0.05 seconds
+0084.346 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0084.390 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0084.392 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1725) in 0.04 seconds
+0084.394 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0084.419 (0) Table wp_e_notes: Total expected rows (via COUNT): 0
+0084.420 (0) Table wp_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2070) in 0.02 seconds
+0084.423 (0) Table wp_e_notes: finishing file(s) (2, 0.8 KB)
+0084.448 (0) Table wp_e_notes_users_relations: Total expected rows (via COUNT): 0
+0084.449 (0) Table wp_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=875) in 0.00 seconds
+0084.451 (0) Table wp_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0084.454 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 10
+0084.455 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.457 (0) Table wp_itsec_bans: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1760) in 0.00 seconds
+0084.459 (0) Table wp_itsec_bans: finishing file(s) (2, 0.7 KB)
+0084.462 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 393
+0084.463 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.467 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: 26128): 393 (uncompressed bytes in this segment=24300) in 0.01 seconds
+0084.469 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 3.5 KB)
+0084.526 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 12
+0084.527 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.665 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: 10497): 12 (uncompressed bytes in this segment=5463409) in 0.19 seconds
+0084.668 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 773.7 KB)
+0084.702 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0084.703 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1197) in 0.00 seconds
+0084.706 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0084.731 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0084.732 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=921) in 0.00 seconds
+0084.734 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0084.737 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 19
+0084.737 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.760 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: 134): 19 (uncompressed bytes in this segment=9979) in 0.02 seconds
+0084.763 (0) Table wp_itsec_lockouts: finishing file(s) (2, 1.2 KB)
+0084.765 (0) Table wp_itsec_logs: Total expected rows (approximate): 14533
+0085.393 (0) Table wp_itsec_logs: binary mysqldump finished (writes: 72, bytes 26066863, return code 0) in 0.63 seconds
+0085.396 (0) Table wp_itsec_logs: finishing file(s) (1, 1422 KB)
+0085.426 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0085.428 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=609) in 0.00 seconds
+0085.430 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0085.433 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 0
+0085.456 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=747) in 0.02 seconds
+0085.459 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0085.462 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 642
+0085.468 (0) Table wp_itsec_temp: Rows added in this batch (next record: 43406): 642 (uncompressed bytes in this segment=62965) in 0.01 seconds
+0085.471 (0) Table wp_itsec_temp: finishing file(s) (2, 8 KB)
+0085.473 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 5
+0085.474 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=1418) in 0.00 seconds
+0085.476 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.6 KB)
+0085.503 (0) Table wp_links: Total expected rows (via COUNT): 0
+0085.504 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.00 seconds
+0085.506 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0085.608 (0) Table wp_postmeta: Total expected rows (approximate): 1923
+0085.778 (0) Table wp_postmeta: Rows added in this batch (next record: 33031): 2026 (uncompressed bytes in this segment=7777933) in 0.27 seconds
+0085.782 (0) Table wp_postmeta: finishing file(s) (2, 519.4 KB)
+0085.796 (0) Table wp_posts: Total expected rows (via COUNT): 240
+0085.796 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.819 (0) Table wp_posts: Rows added in this batch (next record: 3624): 240 (uncompressed bytes in this segment=751220) in 0.03 seconds
+0085.822 (0) Table wp_posts: finishing file(s) (2, 68.8 KB)
+0085.826 (0) Table wp_term_relationships: Total expected rows (approximate): 193
+0085.828 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 239 (uncompressed bytes in this segment=4200) in 0.00 seconds
+0085.831 (0) Table wp_term_relationships: finishing file(s) (2, 1.1 KB)
+0085.836 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 30
+0085.837 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.839 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 31): 30 (uncompressed bytes in this segment=2073) in 0.01 seconds
+0085.842 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0085.848 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0085.848 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.850 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=755) in 0.01 seconds
+0085.853 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0085.857 (0) Table wp_terms: Total expected rows (via COUNT): 30
+0085.857 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.859 (0) Table wp_terms: Rows added in this batch (next record: 31): 30 (uncompressed bytes in this segment=1780) in 0.00 seconds
+0085.861 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0086.099 (0) Table wp_wpr_rucss_resources: Total expected rows (via COUNT): 455
+0086.100 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.917 (0) Table wp_wpr_rucss_resources: Rows added in this batch (next record: 846): 455 (uncompressed bytes in this segment=23741387) in 1.03 seconds
+0086.921 (0) Table wp_wpr_rucss_resources: finishing file(s) (2, 3685.6 KB)
+0086.952 (0) Table wp_wpr_rucss_used_css: Total expected rows (via COUNT): 0
+0086.953 (0) Table wp_wpr_rucss_used_css: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1225) in 0.00 seconds
+0086.956 (0) Table wp_wpr_rucss_used_css: finishing file(s) (2, 0.5 KB)
+0086.984 (0) Table wp_addonlibrary_addons: Total expected rows (via COUNT): 0
+0086.985 (0) Table wp_addonlibrary_addons: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1186) in 0.00 seconds
+0086.987 (0) Table wp_addonlibrary_addons: finishing file(s) (2, 0.4 KB)
+0087.013 (0) Table wp_addonlibrary_categories: Total expected rows (via COUNT): 0
+0087.015 (0) Table wp_addonlibrary_categories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=777) in 0.00 seconds
+0087.018 (0) Table wp_addonlibrary_categories: finishing file(s) (2, 0.4 KB)
+0087.024 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 12
+0087.024 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.029 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 703): 12 (uncompressed bytes in this segment=66828) in 0.01 seconds
+0087.032 (0) Table wp_aioseo_cache: finishing file(s) (2, 11.4 KB)
+0087.037 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 10
+0087.038 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.041 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: 11): 10 (uncompressed bytes in this segment=40679) in 0.01 seconds
+0087.045 (0) Table wp_aioseo_notifications: finishing file(s) (2, 26 KB)
+0087.050 (0) Table wp_aioseo_posts: Total expected rows (via COUNT): 57
+0087.051 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.056 (0) Table wp_aioseo_posts: Rows added in this batch (next record: 99): 57 (uncompressed bytes in this segment=52633) in 0.01 seconds
+0087.060 (0) Table wp_aioseo_posts: finishing file(s) (2, 4.9 KB)
+0087.091 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0087.093 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=534) in 0.00 seconds
+0087.096 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0087.121 (0) Table wp_e_submissions: Total expected rows (via COUNT): 339
+0087.122 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.138 (0) Table wp_e_submissions: Rows added in this batch (next record: 401): 339 (uncompressed bytes in this segment=140215) in 0.04 seconds
+0087.141 (0) Table wp_e_submissions: finishing file(s) (2, 18 KB)
+0087.165 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 339
+0087.166 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.171 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: 401): 339 (uncompressed bytes in this segment=48701) in 0.03 seconds
+0087.174 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 5.7 KB)
+0087.182 (0) Table wp_e_submissions_values: Total expected rows (approximate): 1648
+0087.198 (0) Table wp_e_submissions_values: Rows added in this batch (next record: 1918): 1614 (uncompressed bytes in this segment=281135) in 0.02 seconds
+0087.202 (0) Table wp_e_submissions_values: finishing file(s) (2, 42.2 KB)
+0087.227 (0) Table wp_seraph_accel_queue: Total expected rows (approximate): 2
+0087.228 (0) Table wp_seraph_accel_queue: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1610) in 0.00 seconds
+0087.231 (0) Table wp_seraph_accel_queue: finishing file(s) (2, 0.8 KB)
+0087.257 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 44
+0087.257 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.260 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 396): 44 (uncompressed bytes in this segment=7709) in 0.01 seconds
+0087.263 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 1.9 KB)
+0087.289 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 41
+0087.289 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.291 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 41): 41 (uncompressed bytes in this segment=21052) in 0.01 seconds
+0087.294 (0) Table wp_wc_admin_notes: finishing file(s) (2, 5.4 KB)
+0087.318 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 0
+0087.320 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=585) in 0.00 seconds
+0087.323 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0087.348 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0087.349 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1230) in 0.00 seconds
+0087.351 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0087.377 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0087.379 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=918) in 0.00 seconds
+0087.381 (0) Table wp_wc_download_log: finishing file(s) (2, 0.5 KB)
+0087.405 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0087.406 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+0087.408 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0087.434 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0087.435 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1211) in 0.00 seconds
+0087.437 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0087.462 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0087.464 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1102) in 0.00 seconds
+0087.466 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0087.493 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0087.494 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=789) in 0.00 seconds
+0087.497 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0087.525 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0087.526 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1329) in 0.00 seconds
+0087.528 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0087.554 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0087.555 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=632) in 0.00 seconds
+0087.557 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0087.581 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0087.582 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=659) in 0.00 seconds
+0087.584 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0087.609 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0087.609 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.612 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=800) in 0.00 seconds
+0087.614 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0087.640 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0087.642 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1202) in 0.00 seconds
+0087.645 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0087.671 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0087.672 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1031) in 0.00 seconds
+0087.675 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0087.699 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0087.700 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=939) in 0.00 seconds
+0087.703 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0087.735 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0087.736 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1514) in 0.00 seconds
+0087.738 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0087.767 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0087.768 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=719) in 0.00 seconds
+0087.770 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0087.799 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0087.800 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.00 seconds
+0087.803 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0087.830 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0087.832 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=727) in 0.00 seconds
+0087.834 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0087.862 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0087.863 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=799) in 0.00 seconds
+0087.866 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0087.893 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0087.894 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=821) in 0.00 seconds
+0087.897 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0087.925 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 2
+0087.925 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.927 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=2964) in 0.00 seconds
+0087.930 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.9 KB)
+0087.957 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0087.958 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=862) in 0.00 seconds
+0087.961 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0087.988 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0087.989 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=765) in 0.00 seconds
+0087.992 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0088.019 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0088.020 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0088.023 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0088.051 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0088.053 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.00 seconds
+0088.056 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0088.084 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0088.085 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1273) in 0.00 seconds
+0088.088 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0088.117 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 12
+0088.117 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.120 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1621) in 0.01 seconds
+0088.123 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0088.125 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_options.table.tmpr185774.gz (1/70/fopen): adding to final database dump
+0088.129 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_options.table.gz (2/70/fopen): adding to final database dump
+0088.129 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_users.table.tmpr4.gz (3/70/fopen): adding to final database dump
+0088.130 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_users.table.gz (4/70/fopen): adding to final database dump
+0088.130 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_usermeta.table.tmpr175.gz (5/70/fopen): adding to final database dump
+0088.131 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_usermeta.table.gz (6/70/fopen): adding to final database dump
+0088.132 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_actions.table.tmpr7662.gz (7/70/fopen): adding to final database dump
+0088.132 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_actions.table.gz (8/70/fopen): adding to final database dump
+0088.133 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/70/fopen): adding to final database dump
+0088.133 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_claims.table.gz (10/70/fopen): adding to final database dump
+0088.134 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/70/fopen): adding to final database dump
+0088.134 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_groups.table.gz (12/70/fopen): adding to final database dump
+0088.135 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_logs.table.tmpr22921.gz (13/70/fopen): adding to final database dump
+0088.135 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_actionscheduler_logs.table.gz (14/70/fopen): adding to final database dump
+0088.136 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_commentmeta.table.tmpr0.gz (15/70/fopen): adding to final database dump
+0088.136 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_commentmeta.table.gz (16/70/fopen): adding to final database dump
+0088.137 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_comments.table.tmpr0.gz (17/70/fopen): adding to final database dump
+0088.137 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_comments.table.gz (18/70/fopen): adding to final database dump
+0088.138 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_notes.table.tmpr0.gz (19/70/fopen): adding to final database dump
+0088.138 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_notes.table.gz (20/70/fopen): adding to final database dump
+0088.139 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_notes_users_relations.table.tmpr0.gz (21/70/fopen): adding to final database dump
+0088.139 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_notes_users_relations.table.gz (22/70/fopen): adding to final database dump
+0088.140 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_bans.table.tmpr11.gz (23/70/fopen): adding to final database dump
+0088.141 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_bans.table.gz (24/70/fopen): adding to final database dump
+0088.141 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_dashboard_events.table.tmpr26129.gz (25/70/fopen): adding to final database dump
+0088.142 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_dashboard_events.table.gz (26/70/fopen): adding to final database dump
+0088.142 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_distributed_storage.table.tmpr10498.gz (27/70/fopen): adding to final database dump
+0088.152 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_distributed_storage.table.gz (28/70/fopen): adding to final database dump
+0088.153 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_fingerprints.table.tmpr0.gz (29/70/fopen): adding to final database dump
+0088.154 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_fingerprints.table.gz (30/70/fopen): adding to final database dump
+0088.154 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (31/70/fopen): adding to final database dump
+0088.155 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_geolocation_cache.table.gz (32/70/fopen): adding to final database dump
+0088.155 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_lockouts.table.tmpr135.gz (33/70/fopen): adding to final database dump
+0088.156 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_lockouts.table.gz (34/70/fopen): adding to final database dump
+0088.157 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_logs.table.gz (35/70/fopen): adding to final database dump
+0088.172 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_mutexes.table.tmpr0.gz (36/70/fopen): adding to final database dump
+0088.172 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_mutexes.table.gz (37/70/fopen): adding to final database dump
+0088.173 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_opaque_tokens.table.tmpr1.gz (38/70/fopen): adding to final database dump
+0088.173 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_opaque_tokens.table.gz (39/70/fopen): adding to final database dump
+0088.174 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_temp.table.tmpr43407.gz (40/70/fopen): adding to final database dump
+0088.174 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_temp.table.gz (41/70/fopen): adding to final database dump
+0088.175 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_user_groups.table.tmpr1001.gz (42/70/fopen): adding to final database dump
+0088.175 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_itsec_user_groups.table.gz (43/70/fopen): adding to final database dump
+0088.176 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_links.table.tmpr0.gz (44/70/fopen): adding to final database dump
+0088.176 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_links.table.gz (45/70/fopen): adding to final database dump
+0088.176 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_postmeta.table.tmpr33032.gz (46/70/fopen): adding to final database dump
+0088.182 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_postmeta.table.gz (47/70/fopen): adding to final database dump
+0088.183 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_posts.table.tmpr3625.gz (48/70/fopen): adding to final database dump
+0088.184 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_posts.table.gz (49/70/fopen): adding to final database dump
+0088.184 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_term_relationships.table.tmpr100001.gz (50/70/fopen): adding to final database dump
+0088.184 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_term_relationships.table.gz (51/70/fopen): adding to final database dump
+0088.185 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_term_taxonomy.table.tmpr32.gz (52/70/fopen): adding to final database dump
+0088.185 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_term_taxonomy.table.gz (53/70/fopen): adding to final database dump
+0088.186 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_termmeta.table.tmpr2.gz (54/70/fopen): adding to final database dump
+0088.186 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_termmeta.table.gz (55/70/fopen): adding to final database dump
+0088.187 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_terms.table.tmpr32.gz (56/70/fopen): adding to final database dump
+0088.187 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_terms.table.gz (57/70/fopen): adding to final database dump
+0088.187 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpr_rucss_resources.table.tmpr847.gz (58/70/fopen): adding to final database dump
+0088.223 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpr_rucss_resources.table.gz (59/70/fopen): adding to final database dump
+0088.224 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpr_rucss_used_css.table.tmpr0.gz (60/70/fopen): adding to final database dump
+0088.225 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpr_rucss_used_css.table.gz (61/70/fopen): adding to final database dump
+0088.225 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_addonlibrary_addons.table.tmpr0.gz (62/70/fopen): adding to final database dump
+0088.226 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_addonlibrary_addons.table.gz (63/70/fopen): adding to final database dump
+0088.226 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_addonlibrary_categories.table.tmpr0.gz (64/70/fopen): adding to final database dump
+0088.227 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_addonlibrary_categories.table.gz (65/70/fopen): adding to final database dump
+0088.227 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_cache.table.tmpr704.gz (66/70/fopen): adding to final database dump
+0088.228 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_cache.table.gz (67/70/fopen): adding to final database dump
+0088.229 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_notifications.table.tmpr12.gz (68/70/fopen): adding to final database dump
+0088.229 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_notifications.table.gz (69/70/fopen): adding to final database dump
+0088.230 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_posts.table.tmpr100.gz (70/70/fopen): adding to final database dump
+0088.231 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_aioseo_posts.table.gz (71/70/fopen): adding to final database dump
+0088.231 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_events.table.tmpr0.gz (72/70/fopen): adding to final database dump
+0088.231 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_events.table.gz (73/70/fopen): adding to final database dump
+0088.232 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions.table.tmpr402.gz (74/70/fopen): adding to final database dump
+0088.233 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions.table.gz (75/70/fopen): adding to final database dump
+0088.233 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions_actions_log.table.tmpr402.gz (76/70/fopen): adding to final database dump
+0088.234 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions_actions_log.table.gz (77/70/fopen): adding to final database dump
+0088.234 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions_values.table.tmpr1919.gz (78/70/fopen): adding to final database dump
+0088.235 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_e_submissions_values.table.gz (79/70/fopen): adding to final database dump
+0088.235 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_seraph_accel_queue.table.tmpr1001.gz (80/70/fopen): adding to final database dump
+0088.236 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_seraph_accel_queue.table.gz (81/70/fopen): adding to final database dump
+0088.236 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_admin_note_actions.table.tmpr397.gz (82/70/fopen): adding to final database dump
+0088.236 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_admin_note_actions.table.gz (83/70/fopen): adding to final database dump
+0088.237 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_admin_notes.table.tmpr42.gz (84/70/fopen): adding to final database dump
+0088.237 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_admin_notes.table.gz (85/70/fopen): adding to final database dump
+0088.238 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_category_lookup.table.tmpr1001.gz (86/70/fopen): adding to final database dump
+0088.238 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_category_lookup.table.gz (87/70/fopen): adding to final database dump
+0088.238 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_customer_lookup.table.tmpr0.gz (88/70/fopen): adding to final database dump
+0088.239 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_customer_lookup.table.gz (89/70/fopen): adding to final database dump
+0088.239 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_download_log.table.tmpr0.gz (90/70/fopen): adding to final database dump
+0088.240 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_download_log.table.gz (91/70/fopen): adding to final database dump
+0088.240 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (92/70/fopen): adding to final database dump
+0088.240 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_coupon_lookup.table.gz (93/70/fopen): adding to final database dump
+0088.241 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (94/70/fopen): adding to final database dump
+0088.241 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_product_lookup.table.gz (95/70/fopen): adding to final database dump
+0088.242 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_stats.table.tmpr0.gz (96/70/fopen): adding to final database dump
+0088.242 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_stats.table.gz (97/70/fopen): adding to final database dump
+0088.242 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (98/70/fopen): adding to final database dump
+0088.243 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_order_tax_lookup.table.gz (99/70/fopen): adding to final database dump
+0088.244 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_product_meta_lookup.table.tmpr0.gz (100/70/fopen): adding to final database dump
+0088.245 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_product_meta_lookup.table.gz (101/70/fopen): adding to final database dump
+0088.245 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_rate_limits.table.tmpr0.gz (102/70/fopen): adding to final database dump
+0088.246 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_rate_limits.table.gz (103/70/fopen): adding to final database dump
+0088.246 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_reserved_stock.table.tmpr1.gz (104/70/fopen): adding to final database dump
+0088.247 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_reserved_stock.table.gz (105/70/fopen): adding to final database dump
+0088.247 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (106/70/fopen): adding to final database dump
+0088.248 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_tax_rate_classes.table.gz (107/70/fopen): adding to final database dump
+0088.249 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_webhooks.table.tmpr0.gz (108/70/fopen): adding to final database dump
+0088.249 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wc_webhooks.table.gz (109/70/fopen): adding to final database dump
+0088.250 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (110/70/fopen): adding to final database dump
+0088.250 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_api_keys.table.gz (111/70/fopen): adding to final database dump
+0088.251 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (112/70/fopen): adding to final database dump
+0088.251 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_attribute_taxonomies.table.gz (113/70/fopen): adding to final database dump
+0088.252 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (114/70/fopen): adding to final database dump
+0088.252 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (115/70/fopen): adding to final database dump
+0088.253 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_log.table.tmpr0.gz (116/70/fopen): adding to final database dump
+0088.253 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_log.table.gz (117/70/fopen): adding to final database dump
+0088.254 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (118/70/fopen): adding to final database dump
+0088.254 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_order_itemmeta.table.gz (119/70/fopen): adding to final database dump
+0088.255 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_order_items.table.tmpr0.gz (120/70/fopen): adding to final database dump
+0088.255 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_order_items.table.gz (121/70/fopen): adding to final database dump
+0088.256 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (122/70/fopen): adding to final database dump
+0088.256 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_payment_tokenmeta.table.gz (123/70/fopen): adding to final database dump
+0088.257 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (124/70/fopen): adding to final database dump
+0088.257 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_payment_tokens.table.gz (125/70/fopen): adding to final database dump
+0088.258 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_sessions.table.tmpr4.gz (126/70/fopen): adding to final database dump
+0088.259 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_sessions.table.gz (127/70/fopen): adding to final database dump
+0088.259 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (128/70/fopen): adding to final database dump
+0088.260 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zone_locations.table.gz (129/70/fopen): adding to final database dump
+0088.260 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (130/70/fopen): adding to final database dump
+0088.261 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zone_methods.table.gz (131/70/fopen): adding to final database dump
+0088.261 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (132/70/fopen): adding to final database dump
+0088.262 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_shipping_zones.table.gz (133/70/fopen): adding to final database dump
+0088.262 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (134/70/fopen): adding to final database dump
+0088.263 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_tax_rate_locations.table.gz (135/70/fopen): adding to final database dump
+0088.263 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (136/70/fopen): adding to final database dump
+0088.264 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_woocommerce_tax_rates.table.gz (137/70/fopen): adding to final database dump
+0088.264 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpforms_tasks_meta.table.tmpr13.gz (138/70/fopen): adding to final database dump
+0088.265 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db-table-wp_wpforms_tasks_meta.table.gz (139/70/fopen): adding to final database dump
+0088.271 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz: finished writing out complete database file (6826.5 KB)
+0088.368 (0) Total database tables backed up: 70 (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz, size: 6990429, sha1: 91a8f3c2b56532371a603bfe37cd3e0d01f19581, sha256: 598b868b6c74c221ccf8d8cfbaf63194306c5b70da70915d2a8567d5561e1450)
+0088.398 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0088.399 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0088.399 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0088.400 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip: others: This file has not yet been successfully uploaded: will queue
+0088.400 (0) backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz: db: This file has not yet been successfully uploaded: will queue
+0088.401 (0) Saving backup history. Total backup size: 105.8 MB
+0088.403 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0088.404 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0088.405 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-b06eb6a255555ecbfc401e6d01616dbd)
+0090.212 (0) Google Drive: quota usage: used=529 MB, total=15360 MB, available=14831 MB
+0090.212 (0) Google Drive: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip: Attempting to upload to Google Drive (into folder id: 1PesBv76ULGyXcMQOHmSLiCJh8mleuMal)
+0090.645 (0) Googledrive chunked upload: 2.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 12.4 / 26)
+0091.075 (0) Googledrive chunked upload: 8.6 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 12.4 / 26)
+0091.407 (0) Googledrive chunked upload: 20.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 12.4 / 26)
+0091.828 (0) Googledrive chunked upload: 43.2 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 12.4 / 26)
+0092.248 (0) Googledrive chunked upload: 89.2 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 12.4 / 26)
+0093.689 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0093.691 (0) Google Drive: OK: Archive backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip uploaded in 3.48 seconds
+0093.692 (0) Recording as successfully uploaded: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip
+0093.699 (0) Deleting local file: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip: OK
+0093.700 (0) Deleting zip manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-plugins.zip.list.tmp)
+0093.854 (0) Google Drive: quota usage: used=529 MB, total=15360 MB, available=14831 MB
+0093.855 (0) Google Drive: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip: Attempting to upload to Google Drive (into folder id: 1PesBv76ULGyXcMQOHmSLiCJh8mleuMal)
+0095.049 (0) Googledrive chunked upload: 100 % uploaded
+0095.051 (0) Google Drive: OK: Archive backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip uploaded in 1.2 seconds
+0095.051 (0) Recording as successfully uploaded: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip
+0095.052 (0) Deleting local file: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip: OK
+0095.053 (0) Deleting zip manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-themes.zip.list.tmp)
+0095.205 (0) Google Drive: quota usage: used=564.1 MB, total=15360 MB, available=14795.9 MB
+0095.206 (0) Google Drive: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip: Attempting to upload to Google Drive (into folder id: 1PesBv76ULGyXcMQOHmSLiCJh8mleuMal)
+0095.567 (0) Googledrive chunked upload: 1.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 12.5 / 26)
+0095.728 (0) Googledrive chunked upload: 4.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 12.5 / 26)
+0095.919 (0) Googledrive chunked upload: 11 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 12.5 / 26)
+0096.174 (0) Googledrive chunked upload: 23.5 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 12.5 / 26)
+0096.712 (0) Googledrive chunked upload: 48.5 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 12.5 / 26)
+0098.229 (0) Googledrive chunked upload: 98.6 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 12.5 / 26)
+0099.196 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+0099.198 (0) Google Drive: OK: Archive backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip uploaded in 3.99 seconds
+0099.199 (0) Recording as successfully uploaded: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip
+0099.213 (0) Deleting local file: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip: OK
+0099.214 (0) Deleting zip manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-uploads.zip.list.tmp)
+0099.455 (0) Google Drive: quota usage: used=628.1 MB, total=15360 MB, available=14731.9 MB
+0099.455 (0) Google Drive: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip: Attempting to upload to Google Drive (into folder id: 1PesBv76ULGyXcMQOHmSLiCJh8mleuMal)
+0100.536 (0) Googledrive chunked upload: 100 % uploaded
+0100.538 (0) Google Drive: OK: Archive backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip uploaded in 1.08 seconds
+0100.538 (0) Recording as successfully uploaded: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip
+0100.539 (0) Deleting local file: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip: OK
+0100.540 (0) Deleting zip manifest (backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-others.zip.list.tmp)
+0100.705 (0) Google Drive: quota usage: used=628.1 MB, total=15360 MB, available=14731.9 MB
+0100.705 (0) Google Drive: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz: Attempting to upload to Google Drive (into folder id: 1PesBv76ULGyXcMQOHmSLiCJh8mleuMal)
+0101.074 (0) Googledrive chunked upload: 15 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 12.5 / 26)
+0101.239 (0) Googledrive chunked upload: 45 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 12.5 / 26)
+0102.511 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0102.513 (0) Google Drive: OK: Archive backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz uploaded in 1.81 seconds
+0102.514 (0) Recording as successfully uploaded: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz
+0102.518 (0) Deleting local file: backup_2022-05-28-0112_Aknirob_6a44e1d6bd39-db.gz: OK
+0102.520 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0102.521 (0) Number of backup sets in history: 6; groups (db): 1
+0102.521 (0) Examining (for databases) backup set with group_id=0, nonce=6a44e1d6bd39, datestamp=1653700349 (May 28 2022 01:12:29)
+0102.522 (0) This backup set is the backup set just made, so will not be deleted.
+0102.522 (0) Examining (for databases) backup set with group_id=0, nonce=d0c2bec316a9, datestamp=1653095434 (May 21 2022 01:10:34)
+0102.522 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0102.522 (0) Examining (for databases) backup set with group_id=0, nonce=b15f1eb79958, datestamp=1652490680 (May 14 2022 01:11:20)
+0102.522 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0102.522 (0) Examining (for databases) backup set with group_id=0, nonce=8c2a80d4d80a, datestamp=1651885728 (May 07 2022 01:08:48)
+0102.522 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0102.522 (0) Examining (for databases) backup set with group_id=0, nonce=3873c395def7, datestamp=1651280847 (Apr 30 2022 01:07:27)
+0102.522 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0102.522 (0) Examining (for databases) backup set with group_id=0, nonce=7e0f076ce234, datestamp=1650676311 (Apr 23 2022 01:11:51)
+0102.522 (0) 1650676311: db: this set includes a database (backup_2022-04-23-0111_Aknirob_7e0f076ce234-db.gz); db count is now 5
+0102.522 (0) 1650676311: db: over retain limit (5); will delete this database
+0102.522 (0) Delete file: backup_2022-04-23-0111_Aknirob_7e0f076ce234-db.gz, service=googledrive
+0103.481 (0) Google Drive: backup_2022-04-23-0111_Aknirob_7e0f076ce234-db.gz: Deletion successful
+0103.483 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0103.484 (0) Number of backup sets in history: 6; groups (files): 1
+0103.484 (0) Examining (for files) backup set with nonce=6a44e1d6bd39, datestamp=1653700349 (May 28 2022 01:12:29)
+0103.484 (0) This backup set is the backup set just made, so will not be deleted.
+0103.484 (0) This backup set is the backup set just made, so will not be deleted.
+0103.484 (0) This backup set is the backup set just made, so will not be deleted.
+0103.484 (0) This backup set is the backup set just made, so will not be deleted.
+0103.484 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0103.485 (0) Examining (for files) backup set with nonce=d0c2bec316a9, datestamp=1653095434 (May 21 2022 01:10:34)
+0103.485 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0103.485 (0) Examining (for files) backup set with nonce=b15f1eb79958, datestamp=1652490680 (May 14 2022 01:11:20)
+0103.485 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0103.485 (0) Examining (for files) backup set with nonce=8c2a80d4d80a, datestamp=1651885728 (May 07 2022 01:08:48)
+0103.485 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0103.485 (0) Examining (for files) backup set with nonce=3873c395def7, datestamp=1651280847 (Apr 30 2022 01:07:27)
+0103.485 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0103.485 (0) Examining (for files) backup set with nonce=7e0f076ce234, datestamp=1650676311 (Apr 23 2022 01:11:51)
+0103.485 (0) plugins: over retain limit (5); will delete this file entity
+0103.485 (0) themes: over retain limit (5); will delete this file entity
+0103.485 (0) uploads: over retain limit (5); will delete this file entity
+0103.485 (0) others: over retain limit (5); will delete this file entity
+0103.485 (0) Delete file: backup_2022-04-23-0111_Aknirob_7e0f076ce234-plugins.zip, service=googledrive
+0103.486 (0) Delete file: backup_2022-04-23-0111_Aknirob_7e0f076ce234-themes.zip, service=googledrive
+0103.486 (0) Delete file: backup_2022-04-23-0111_Aknirob_7e0f076ce234-uploads.zip, service=googledrive
+0103.487 (0) Delete file: backup_2022-04-23-0111_Aknirob_7e0f076ce234-others.zip, service=googledrive
+0104.169 (0) Google Drive: backup_2022-04-23-0111_Aknirob_7e0f076ce234-others.zip: Deletion successful
+0104.638 (0) Google Drive: backup_2022-04-23-0111_Aknirob_7e0f076ce234-uploads.zip: Deletion successful
+0105.119 (0) Google Drive: backup_2022-04-23-0111_Aknirob_7e0f076ce234-themes.zip: Deletion successful
+0105.664 (0) Google Drive: backup_2022-04-23-0111_Aknirob_7e0f076ce234-plugins.zip: Deletion successful
+0105.666 (0) This backup set is now empty; will remove from history
+0105.667 (0) Deleting log file (log.7e0f076ce234.txt)
+0105.708 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0105.711 (0) Resume backup (6a44e1d6bd39, 0): finish run
+0105.712 (0) Decremented the semaphore (fd) by 1
+0105.713 (0) Semaphore (fd) unlocked
+0105.714 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0105.716 (0) Fetching RSS news feed
+0106.091 (0) Fetched RSS news feed; result is a: SimplePie
+0106.114 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: asifk...
+0106.279 (0) The backup apparently succeeded and is now complete

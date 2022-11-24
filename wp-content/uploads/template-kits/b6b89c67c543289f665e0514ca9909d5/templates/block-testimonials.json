@@ -1,0 +1,412 @@
+{
+    "version": "0.4",
+    "title": "Block &#8211; Testimonials",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "69e04d9b",
+            "settings": {
+                "background_background": "gradient",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 320,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=text",
+                    "background_color_b": "globals\/colors?id=accent"
+                },
+                "_title": "Testimonials",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/10\/sports-equipment-in-gym-dumbbells-of-different-GLUGZYE.jpg",
+                    "id": 1340,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "fixed",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.4,
+                    "sizes": []
+                },
+                "css_filters_css_filter": "custom",
+                "css_filters_saturate": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "5c432111",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeIn",
+                        "animation_delay": 400
+                    },
+                    "elements": [
+                        {
+                            "id": "9144cc9",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=9d9e1c7"
+                                },
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1cc0430e",
+                            "settings": {
+                                "title": "Member Stories",
+                                "header_size": "h6",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=2e2dd07"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d9bdbcc",
+                            "settings": {
+                                "title": "Testimonials",
+                                "header_size": "h4",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3590c803",
+                            "settings": {
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6404676a",
+                            "settings": {
+                                "sg_setting_slide_show_responsive": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "sg_setting_autoplay": "yes",
+                                "sg_setting_autoplay_pause": "yes",
+                                "sg_setting_arrow": "",
+                                "sg_setting_arrow_position": "top-left",
+                                "sg_setting_dots": "yes",
+                                "sg_setting_quote": "yes",
+                                "sg_setting_rating": "",
+                                "sg_testimonials_list": [
+                                    {
+                                        "sg_testimonials_list_client_avatar": {
+                                            "url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fit-couple-lifting-barbells-in-the-gym-ZACL9S6.jpg",
+                                            "id": 327,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "a0191e3",
+                                        "sg_testimonials_list_client_name": "Pamela Collins",
+                                        "sg_testimonials_list_designation": "10 Weeks \/ Private Training",
+                                        "sg_testimonials_list_review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elit lectus, hendrerit a mattis vel, dapibus vel nisi. Ut enim dapibus mauris.",
+                                        "sg_testimonials_list_background_background_gradient_angle": {
+                                            "unit": "deg",
+                                            "size": 320,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "sg_testimonials_list_background_background_color": "globals\/colors?id=2e2dd07",
+                                            "sg_testimonials_list_background_background_color_b": "globals\/colors?id=9d9e1c7"
+                                        }
+                                    },
+                                    {
+                                        "sg_testimonials_list_client_avatar": {
+                                            "url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fit-couple-lifting-barbells-in-the-gym-ZACL9S6.jpg",
+                                            "id": 327,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "a5499be",
+                                        "sg_testimonials_list_client_name": "Sean Silva",
+                                        "sg_testimonials_list_designation": "8 Weeks \/ Athlete Training",
+                                        "sg_testimonials_list_review": "Maecenas facilisis tristique imperdiet. Sed pellentesque, quam vehicula dictum molestie, metus nunc vulputate arcu."
+                                    },
+                                    {
+                                        "sg_testimonials_list_client_avatar": {
+                                            "url": "https:\/\/a.catand.us\/fitfactory\/wp-content\/uploads\/sites\/17\/2021\/09\/fit-couple-lifting-barbells-in-the-gym-ZACL9S6.jpg",
+                                            "id": 327,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "5fac12b",
+                                        "sg_testimonials_list_client_name": "Heather Holland",
+                                        "sg_testimonials_list_designation": "12 Weeks \/ Group Training",
+                                        "sg_testimonials_list_review": "Phasellus lobortis dui ac tellus dictum vehicula. Nunc ullamcorper lorem vitae scelerisque molestie. Dincidunt bibendum elit et semper."
+                                    }
+                                ],
+                                "st_dots_width_responsive": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "st_dots_height_responsive": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "st_dots_color_responsive": "#483816",
+                                "st_dots_active_width_responsive": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "st_dots_active_height_responsive": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "st_dots_active_color_responsive": "#F4AF00",
+                                "__globals__": {
+                                    "st_dots_color_responsive": "",
+                                    "st_dots_active_color_responsive": "globals\/colors?id=primary",
+                                    "st_description_typography_content_typography_typography": "",
+                                    "st_description_color_responsive": "globals\/colors?id=2e2dd07",
+                                    "st_quote_normal_color_responsive": "globals\/colors?id=primary",
+                                    "st_client_name_normal_color_responsive": "globals\/colors?id=2e2dd07",
+                                    "st_client_name_normal_typography_content_typography_typography": "globals\/typography?id=secondary",
+                                    "st_client_designation_normal_color_responsive": "globals\/colors?id=9d9e1c7",
+                                    "st_client_designation_normal_typography_content_typography_typography": ""
+                                },
+                                "sg_setting_margin_responsive": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "sg_setting_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "sg_setting_autoplay_speed": {
+                                    "unit": "px",
+                                    "size": 5000,
+                                    "sizes": []
+                                },
+                                "sg_setting_quote_icon": {
+                                    "value": "jki jki-quote-left-solid",
+                                    "library": "jkiticon"
+                                },
+                                "st_layout_boxshadow_box_shadow_box_shadow_type": "yes",
+                                "st_layout_boxshadow_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "st_wrapper_fix_height": "",
+                                "st_description_typography_content_typography_font_family": "Noto Sans",
+                                "st_description_typography_content_typography_font_weight": "700",
+                                "st_description_typography_content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "st_description_color_responsive": "#FFFFFF",
+                                "st_quote_normal_color_responsive": "#F4AF00",
+                                "st_client_name_normal_color_responsive": "#FFFFFF",
+                                "st_client_name_normal_typography_content_typography_typography": "custom",
+                                "st_client_name_normal_typography_content_typography_font_family": "Oswald",
+                                "st_client_name_normal_typography_content_typography_font_weight": "500",
+                                "st_client_name_normal_typography_content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "st_client_designation_normal_color_responsive": "#F7F7F7",
+                                "st_client_designation_normal_typography_content_typography_font_family": "Noto Sans",
+                                "st_client_designation_normal_typography_content_typography_font_weight": "400",
+                                "st_client_designation_normal_typography_content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "st_client_image_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_client_image_width_responsive": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "st_client_layout_bottom_position_responsive": {
+                                    "unit": "px",
+                                    "size": -100,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-25",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_wrapper_alignment_responsive_mobile": "center",
+                                "st_client_layout_bottom_position_responsive_mobile": {
+                                    "unit": "px",
+                                    "size": -100,
+                                    "sizes": []
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "jkit_testimonials",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
